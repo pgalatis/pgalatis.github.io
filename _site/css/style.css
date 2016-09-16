@@ -32,6 +32,10 @@ h1.title {
     color: #222;
 }
 
+h2, p.timestamp {
+    text-align: center;
+}
+
 .main {
 	margin-top: 60px;
 }
