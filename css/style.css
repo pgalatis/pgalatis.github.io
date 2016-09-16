@@ -67,6 +67,7 @@ a {text-decoration: none;
 
 .post {
     padding-top: 30px;
+    text-align: justify;
 }
 
 @media only screen and (max-width: 840px) {
