@@ -48,6 +48,15 @@ h1.title {
 	text-decoration: none;
 }
 
+.main:after {
+    display: block;
+    content: "";
+    width: 100px;
+    height: 1px;
+    margin: 3rem auto;
+    background-color: #eee;
+}
+
 .footer p {
 	text-align: center;
 	margin-top: 40px;
