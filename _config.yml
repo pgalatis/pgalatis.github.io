@@ -20,7 +20,7 @@ github_username:  pgalatis
 # Build settings
 markdown: kramdown
 
-ermalink: pretty
-paginate: 1
+permalink: pretty
+paginate: 10
 highlighter: rouge
 gems: [jekyll-paginate]
