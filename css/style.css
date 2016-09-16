@@ -56,6 +56,10 @@ h1.title {
 a {text-decoration: none;
    color: #333;}
 
+.post {
+    padding-top: 30px;
+}
+
 @media only screen and (max-width: 840px) {
 
     html, body {
