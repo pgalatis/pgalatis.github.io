@@ -24,5 +24,3 @@ ermalink: pretty
 paginate: 1
 highlighter: rouge
 gems: [jekyll-paginate]
-gems:
-  - jekyll-sitemap
