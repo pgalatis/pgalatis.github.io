@@ -1,0 +1,121 @@
+<<<<<<< HEAD
+---
+title: Home
+author: Panos Galatis
+layout: default
+---
+
+<div class="post">
+		{% for post in paginator.posts limit:1 %}
+		<article class="entry" itemscope itemtype="http://schema.org/Article">
+			<header>
+				<h2 itemprop="name"><a href="{{ post.url }}">{{ post.title }}</a></h2>
+				<p class="timestamp" itemprop="datePublished">{{ post.date | date_to_long_string }}</p>
+			</header>		
+				{% if post.content contains '<!-- more -->' %}
+	
+					{{ post.content | split:'<!-- more -->' | first }}
+	
+					<p><a href="{{ post.url }}">Continue reading...</a></p>
+
+				{% else %}
+
+					{{ post.content }}
+	
+				{% endif %}
+			</article>
+		{% endfor %}
+		<div class="pagination">
+  			{% if page.previous.url %}
+    			<a class="prev" href="{{page.previous.url}}"><span class="fa fa-chevron-left"></span> Previous post</a>
+  			{% endif %}
+  			{% if page.next.url %}
+    			<a class="next" href="{{page.next.url}}">Next post <span class="fa fa-chevron-right"></span></a>
+  			{% endif %}
+		</div>
+</div>
+=======
+
+<!DOCTYPE html>
+  <head>
+    <meta charset="utf-8">
+    <title>Panos Galatis</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0 user-scalable=yes">
+    <meta name="description" content="Homepage of Panos Galatis">
+    <meta name="author" content="Panos Galatis">
+    <meta name="google-site-verification" content="kkKJcuUXPKv0xBtfFYVN2JVfPdX-GIJ5hDJzblW1EZA">
+
+    <meta property="og:title" content="Panos Galatis">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="Panos Galatis">
+    <meta property="og:description" content="Homepage of Panos Galatis">
+
+    <meta itemprop="name" content="Panos Galatis">
+    <meta itemprop="description" content="Homepage of Panos Galatis">
+    <meta itemprop="image" content="">
+
+    <link rel="canonical" href="https://pgalatis.github.io/">
+    <link rel="stylesheet" href="style.css">
+
+    <!-- Typekit -->
+    <script src="https://use.typekit.net/gbl4ovo.js"></script>
+    <script>try{Typekit.load({ async: true });}catch(e){}</script>
+
+    <!-- Font Awesome -->
+    <script src="https://use.fontawesome.com/e1b94c69ce.js"></script>
+
+    <!-- Google Prettify -->
+    <script src="https://google-code-prettify.googlecode.com/svn/loader/run_prettify.js"></script>
+    
+    <!-- Google Analytics -->
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+      ga('create', 'UA-55454982-1', 'auto');
+      ga('send', 'pageview');
+    </script>
+    
+  </head>
+
+  <body class="fade-out" itemscope itemtype="http://schema.org/WebPage">
+  <script>window.onload = function () { document.body.className = "";}</script>
+
+  <div class="wrapper">
+    <header role="banner">
+      <h1 class="title">PANOS GALATIS</h1>
+    </header>
+
+    <div class="main">
+      <p>Senior Technician at the <a href="https://www.northumbria.ac.uk/study-at-northumbria/courses/conservation-of-fine-art-dtfcfz6/">MA Conservation of Fine Art Programme</a> 
+      at <a href="http://northumbria.ac.uk">Northumbria University</a>. I love simplicity, handcoding HTML and CSS, everything Science and espresso!</p>
+    </div>
+
+    <div class="footer">
+    <p><a href="https://gr.linkedin.com/in/pgalatis"><i class="fa fa-linkedin"></i></a>
+    &nbsp;&nbsp;<a href="https://github.com/pgalatis"><i class="fa fa-github"></i></a>
+    </div>
+
+  </div>
+
+  </body>
+  </html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+>>>>>>> origin/master
