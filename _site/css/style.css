@@ -36,7 +36,7 @@ h1.title {
 	margin-top: 60px;
 }
 
-.main p {
+.main p, .post {
 	font-weight: 400;
 	font-size: 1.1rem;
 	line-height: 1.7;
@@ -51,9 +51,9 @@ h1.title {
 .main:after {
     display: block;
     content: "";
-    width: 100px;
+    width: 200px;
     height: 1px;
-    margin: 3rem auto;
+    margin: 2rem auto;
     background-color: #eee;
 }
 
