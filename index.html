@@ -25,16 +25,16 @@ layout: default
 		{% endfor %}
 		<div class="pagination">
 		<ul>
-			{% if paginator.next_page == 2 %}
-    				<li><a href="/page{{ paginator.next_page }}/" title="Older Entries"><span class="fa fa-chevron-left"></span>&nbsp;&nbsp;<span class="older-entries">Older Entries</span></a></li>
-    			{% elsif paginator.previous_page == 1 %}
-    				<li><a href="/page{{ paginator.next_page }}/" title="Older entries"><span class="fa fa-chevron-left"></span></a>&nbsp;&nbsp;<span class="page-number">Page {{ paginator.page }} of {{ paginator.total_pages }}</span>&nbsp;&nbsp;<a href="/" title="Newer Entries"><span class="fa fa-chevron-right"></span></a></li>
-    			{% elsif paginator.next_page && paginator.previous_page %}
-    				<li><a href="/page{{ paginator.next_page }}/" title="Older entries"><span class="fa fa-chevron-left"></span></a>&nbsp;&nbsp;<span class="page-number">Page {{ paginator.page }} of {{ paginator.total_pages }}</span>&nbsp;&nbsp;<a href="/page{{ paginator.previous_page }}/" title="Newer Entries"><span class="fa fa-chevron-right"></span></a></li>
+			{% if paginator.previous_page %}
+    				<li><a href="{{ paginator.previous_page_path }}" title="Older Entries"><span class="fa fa-chevron-left"></span>&nbsp;&nbsp;<span class="older-entries">Older Entries</span></a></li>
     			{% else %}
-    				<li><a href="/" title="Older entries"><span class="fa fa-chevron-left"></span></a>&nbsp;&nbsp;<span class="page-number">Page {{ paginator.page }} of {{ paginator.total_pages }}</span>&nbsp;&nbsp;<a href="/page{{ paginator.previous_page }}/" title="Newer Entries"><span class="fa fa-chevron-right"></span></a></li>
+    				<li><span class="older-entries">Older Entries</span></li>
+    			{% endif %}
+    		{% if paginator.next_page %}
+    				<li><a href="{{ paginator.next_page_path }}" title="Newer Entries"><span class="fa fa-chevron-right"></span>&nbsp;&nbsp;<span class="newer-entries">Newer Entries</span></a></li>
+    			{% else %}
+    				<li><span class="newer-entries">Newer Entries</span></li>
     		{% endif %}
-
 		</ul>
 	</div>
 </div>
