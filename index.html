@@ -25,12 +25,12 @@ layout: default
 		{% endfor %}
 		<div class="pagination">
 		<ul>
-			{% if paginator.previous_page %}
+			{% if paginator.next_page %}
     				<li><a href="{{ paginator.previous_page_path }}" title="Older Entries"><span class="fa fa-chevron-left"></span>&nbsp;&nbsp;<span class="older-entries">Older Entries</span></a></li>
     			{% else %}
     				<li><span class="older-entries">Older Entries</span></li>
     			{% endif %}
-    		{% if paginator.next_page %}
+    		{% if paginator.previous_page %}
     				<li><a href="{{ paginator.next_page_path }}" title="Newer Entries"><span class="fa fa-chevron-right"></span>&nbsp;&nbsp;<span class="newer-entries">Newer Entries</span></a></li>
     			{% else %}
     				<li><span class="newer-entries">Newer Entries</span></li>
