@@ -47,7 +47,7 @@ h2 {
 
 .main p {
 	font-weight: 400;
-	font-size: .8rem;
+	font-size: 1rem;
 	line-height: 1.7;
     color: #87a6bc;
 	/*text-align: justify;*/
@@ -71,7 +71,6 @@ h2 {
     font-weight: 400;
     font-size: 1.1rem;
     line-height: 1.7;
-    text-align: justify;
 }
 
 .footer p {
@@ -84,6 +83,10 @@ a {text-decoration: none;
 
 .post {
     padding-top: 30px;
+}
+
+.entry {
+    text-align: justify;
 }
 
 @media only screen and (max-width: 840px) {
