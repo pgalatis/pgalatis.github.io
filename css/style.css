@@ -116,7 +116,7 @@ a {text-decoration: none;
 
 .pagination ul li {
     list-style: none;
-    margin: 0
+    margin: 0;
     padding: 0;
 }
 
@@ -125,7 +125,7 @@ a {text-decoration: none;
 }
 
 .newer {
-    float-right;
+    float: right;
 }
 
 @media only screen and (max-width: 840px) {
