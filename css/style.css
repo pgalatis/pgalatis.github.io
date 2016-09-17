@@ -32,6 +32,14 @@ h1.title {
     color: #222;
 }
 
+nav.info {
+    margin: 20px 0;
+}
+
+nav.info a {
+    padding-right: 10px;
+}
+
 h2, p.timestamp {
     text-align: center;
     font-weight: 400;
@@ -57,7 +65,7 @@ h2 {
 	text-decoration: none;
 }
 
-.main:after {
+header:after {
     display: block;
     content: "";
     width: 200px;
