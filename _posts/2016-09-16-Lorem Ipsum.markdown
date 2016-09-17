@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Hi"
-date:   2016-09-16 22:00:00 +0100
+title:  "Aphorism #1"
+date:   2016-09-17 12:30:00 +0200
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam semper in enim at rhoncus. Quisque ut urna faucibus, condimentum ipsum at, posuere justo. Integer suscipit lorem purus, quis congue enim faucibus eu. Vestibulum elit purus, tincidunt quis magna ac, blandit ullamcorper diam.
+All materials will inadvertently tend to return to their lowest energy states. It is therefore impossible to stop deterioration and degradation. Whatever one might try to do, nature will always favour &Delta;S>0, &Delta;H<0, &Delta;G<0. 
