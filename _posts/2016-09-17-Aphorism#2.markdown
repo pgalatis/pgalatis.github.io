@@ -4,4 +4,4 @@ title:  "Aphorism #2"
 date:   2016-09-17 12:40:00 +0200
 ---
 
-One of the greatest misconceptions in Art Conservation is the notion of "reversibility". One has to understand that interventive processes are rarely, if ever, reversible. How can a material, which is subject to the same ageing mechanisms as the aged materials it was chosen to replace, remain reversible through time? 
+One of the greatest misconceptions in Art Conservation is the notion of "reversibility". One has to understand that interventive processes are rarely, if ever, reversible. How can the removal of a material, which is subject to the same ageing mechanisms as the aged materials it was chosen to replace, remain reversible through time? 
