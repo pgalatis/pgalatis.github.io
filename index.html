@@ -33,7 +33,7 @@ layout: default
     				<li><a href="/page{{ paginator.next_page }}/" title="Older entries"><span class="fa fa-chevron-left"></span></a>&nbsp;&nbsp;<span class="page-number">Page {{ paginator.page }} of {{ paginator.total_pages }}</span>&nbsp;&nbsp;<a href="/page{{ paginator.previous_page }}/" title="Newer Entries"><span class="fa fa-chevron-right"></span></a></li>
     			{% else %}
     				<li><a href="/" title="Older entries"><span class="fa fa-chevron-left"></span></a>&nbsp;&nbsp;<span class="page-number">Page {{ paginator.page }} of {{ paginator.total_pages }}</span>&nbsp;&nbsp;<a href="/page{{ paginator.previous_page }}/" title="Newer Entries"><span class="fa fa-chevron-right"></span></a></li>
-    			{% endif %}
+    		{% endif %}
 
 		</ul>
 	</div>
