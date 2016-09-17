@@ -40,6 +40,10 @@ nav.info a:first-child {
     padding-right: 10px;
 }
 
+nav.info a {
+    color: #4c4c4c;
+}
+
 h2, p.timestamp {
     text-align: center;
     font-weight: 400;
