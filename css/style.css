@@ -36,7 +36,7 @@ nav.info {
     margin: 20px 0;
 }
 
-nav.info a {
+nav.info a:first-child {
     padding-right: 10px;
 }
 
