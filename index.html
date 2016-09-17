@@ -24,11 +24,17 @@ layout: default
 			</article>
 		{% endfor %}
 		<div class="pagination">
-  			{% if page.previous.url %}
-    			<a class="prev" href="{{page.previous.url}}"><span class="fa fa-chevron-left"></span> Previous post</a>
-  			{% endif %}
-  			{% if page.next.url %}
-    			<a class="next" href="{{page.next.url}}">Next post <span class="fa fa-chevron-right"></span></a>
-  			{% endif %}
-		</div>
+		<ul>
+			{% if paginator.next_page == 2 %}
+    				<li><a href="/page{{ paginator.next_page }}/" title="Older Entries"><span class="fa fa-chevron-left"></span>&nbsp;&nbsp;<span class="older-entries">Older Entries</span></a></li>
+    			{% elsif paginator.previous_page == 1 %}
+    				<li><a href="/page{{ paginator.next_page }}/" title="Older entries"><span class="fa fa-chevron-left"></span></a>&nbsp;&nbsp;<span class="page-number">Page {{ paginator.page }} of {{ paginator.total_pages }}</span>&nbsp;&nbsp;<a href="/" title="Newer Entries"><span class="fa fa-chevron-right"></span></a></li>
+    			{% elsif paginator.next_page && paginator.previous_page %}
+    				<li><a href="/page{{ paginator.next_page }}/" title="Older entries"><span class="fa fa-chevron-left"></span></a>&nbsp;&nbsp;<span class="page-number">Page {{ paginator.page }} of {{ paginator.total_pages }}</span>&nbsp;&nbsp;<a href="/page{{ paginator.previous_page }}/" title="Newer Entries"><span class="fa fa-chevron-right"></span></a></li>
+    			{% else %}
+    				<li><a href="/" title="Older entries"><span class="fa fa-chevron-left"></span></a>&nbsp;&nbsp;<span class="page-number">Page {{ paginator.page }} of {{ paginator.total_pages }}</span>&nbsp;&nbsp;<a href="/page{{ paginator.previous_page }}/" title="Newer Entries"><span class="fa fa-chevron-right"></span></a></li>
+    			{% endif %}
+
+		</ul>
+	</div>
 </div>
