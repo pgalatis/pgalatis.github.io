@@ -18,7 +18,7 @@ header[role="banner"] {
 }
 
 .wrapper {
-	margin: 120px auto;
+	margin: 60px auto;
 	max-width: 540px;
 }
 
@@ -49,7 +49,6 @@ h2 {
 	font-weight: 400;
 	font-size: 1rem;
 	line-height: 1.7;
-    color: #87a6bc;
 	/*text-align: justify;*/
 }
 
