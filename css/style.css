@@ -69,7 +69,7 @@ h2 {
 	text-decoration: none;
 }
 
-header:after {
+header[role="banner"]:after {
     display: block;
     content: "";
     width: 200px;
