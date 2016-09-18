@@ -132,6 +132,12 @@ a {text-decoration: none;
     float: right;
 }
 
+.group:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
 @media only screen and (max-width: 840px) {
 
     html, body {
