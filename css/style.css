@@ -46,7 +46,10 @@ nav.info a {
 
 h2, p.timestamp {
     text-align: center;
-    font-weight: 400;
+}
+
+p.timestamp {
+    color: #999;
 }
 
 h2 {
