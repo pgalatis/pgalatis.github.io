@@ -111,6 +111,7 @@ a {text-decoration: none;
 
 .pagination {
     margin: 50px auto;
+    border-bottom: 1px solid #eee;
 }
 
 .pagination ul {
