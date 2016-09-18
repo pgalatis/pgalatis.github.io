@@ -90,12 +90,13 @@ header[role="banner"]:after {
 
 .footer {
     clear: both;
-    padding-top: 20px;
 }
 
 .footer p {
 	text-align: center;
 	margin-top: 40px;
+    color: #666;
+    font-size: .85rem;
 }
 
 a {text-decoration: none;
