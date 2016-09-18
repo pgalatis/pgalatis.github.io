@@ -91,11 +91,6 @@ header[role="banner"]:after {
 .footer {
     clear: both;
     padding-top: 10px;
-    color: #999;
-}
-
-.footer .fa {
-    color: #999;
 }
 
 .footer p {
