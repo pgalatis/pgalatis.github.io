@@ -90,11 +90,11 @@ header[role="banner"]:after {
 
 .footer {
     clear: both;
+    padding-top: 20px;
 }
 
 .footer p {
 	text-align: center;
-	margin-top: 40px;
 }
 
 .footer p:first-child {
