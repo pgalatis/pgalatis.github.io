@@ -95,8 +95,11 @@ header[role="banner"]:after {
 .footer p {
 	text-align: center;
 	margin-top: 40px;
+}
+
+.footer p:first-child {
+    font-size: .9rem;
     color: #666;
-    font-size: 1rem;
 }
 
 a {text-decoration: none;
