@@ -26,14 +26,14 @@ layout: default
 		<div class="pagination">
 		<ul>
 			{% if paginator.next_page %}
-    				<li class="older"><a href="{{ paginator.next_page_path }}" title="Older Entries"><span class="fa fa-chevron-left"></span>&nbsp;&nbsp;<span class="older-entries">Older Entries</span></a></li>
+    				<li class="older"><a href="{{ paginator.next_page_path }}" title="Older Entries"><span class="fa fa-chevron-left"></span>&nbsp;&nbsp;<span class="older-entries">older entries</span></a></li>
     			{% else %}
-    				<li class="older"><span style="color: #999!important">Older Entries</span></li>
+    				<li class="older"><span style="color: #999!important">older entries</span></li>
     			{% endif %}
     		{% if paginator.previous_page %}
-    				<li class="newer"><span class="newer-entries">Newer Entries</span><a href="{{ paginator.previous_page_path }}" title="Newer Entries">&nbsp;&nbsp;<span class="fa fa-chevron-right"></span></a></li>
+    				<li class="newer"><span class="newer-entries">newer entries</span><a href="{{ paginator.previous_page_path }}" title="Newer Entries">&nbsp;&nbsp;<span class="fa fa-chevron-right"></span></a></li>
     			{% else %}
-    				<li class="newer"><span style="color: #999!important">Newer Entries</span></li>
+    				<li class="newer"><span style="color: #999!important">newer entries</span></li>
     		{% endif %}
 		</ul>
 	</div>
