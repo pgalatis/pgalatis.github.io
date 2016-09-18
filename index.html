@@ -31,7 +31,7 @@ layout: default
     				<li class="older"><span style="color: #999!important">older entries</span></li>
     			{% endif %}
     		{% if paginator.previous_page %}
-    				<li class="newer"><span class="newer-entries">newer entries</span><a href="{{ paginator.previous_page_path }}" title="Newer Entries">&nbsp;&nbsp;<span class="fa fa-chevron-right"></span></a></li>
+    				<li class="newer"><a href="{{ paginator.previous_page_path }}" title="Newer Entries"><span class="newer-entries">newer entries</span>&nbsp;&nbsp;<span class="fa fa-chevron-right"></span></a></li>
     			{% else %}
     				<li class="newer"><span style="color: #999!important">newer entries</span></li>
     		{% endif %}
