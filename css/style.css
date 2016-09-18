@@ -126,6 +126,7 @@ a {text-decoration: none;
 
 .newer {
     float: right;
+    margin-top: 3px!important;
 }
 
 @media only screen and (max-width: 840px) {
