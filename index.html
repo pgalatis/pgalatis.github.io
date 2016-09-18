@@ -23,7 +23,8 @@ layout: default
 				{% endif %}
 			</article>
 		{% endfor %}
-		<div class="pagination">
+</div>
+<div class="pagination">
 		<ul>
 			{% if paginator.next_page %}
     				<li class="older"><a href="{{ paginator.next_page_path }}" title="Older Entries"><span class="fa fa-chevron-left"></span>&nbsp;&nbsp;<span class="older-entries">older entries</span></a></li>
@@ -36,5 +37,5 @@ layout: default
     				<li class="newer"><span style="color: #999!important">newer entries</span></li>
     		{% endif %}
 		</ul>
-	</div>
 </div>
+
