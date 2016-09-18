@@ -28,12 +28,12 @@ layout: default
 			{% if paginator.next_page %}
     				<li class="older"><a href="{{ paginator.next_page_path }}" title="Older Entries"><span class="fa fa-chevron-left"></span>&nbsp;&nbsp;<span class="older-entries">older entries</span></a></li>
     			{% else %}
-    				<li class="older"><span style="color: #999!important">older entries</span></li>
+    				<li class="older"><span style="display: none;">older entries</span></li>
     			{% endif %}
     		{% if paginator.previous_page %}
     				<li class="newer"><a href="{{ paginator.previous_page_path }}" title="Newer Entries"><span class="newer-entries">newer entries</span>&nbsp;&nbsp;<span class="fa fa-chevron-right"></span></a></li>
     			{% else %}
-    				<li class="newer"><span style="color: #999!important">newer entries</span></li>
+    				<li class="newer"><span style="display: none;">newer entries</span></li>
     		{% endif %}
 		</ul>
 	</div>
