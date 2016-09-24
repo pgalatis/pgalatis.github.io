@@ -113,7 +113,7 @@ a {text-decoration: none;
 }
 
 .pagination {
-    margin: 50px auto;
+    margin: 55px auto 40px auto;
     border-bottom: 1px solid #eee;
     padding-bottom: 5px;
     font-size: .9rem;
