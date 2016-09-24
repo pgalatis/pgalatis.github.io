@@ -91,6 +91,7 @@ header[role="banner"]:after {
 .footer {
     clear: both;
     padding-top: 10px;
+    font-size: .9rem;
 }
 
 .footer p {
@@ -116,6 +117,7 @@ a {text-decoration: none;
     margin: 50px auto;
     border-bottom: 1px solid #eee;
     padding-bottom: 5px;
+    font-size: .9rem;
 }
 
 .pagination ul {
