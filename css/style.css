@@ -45,18 +45,16 @@ nav.info a {
 }
 
 h2 {
+    margin-top: 0;
     font-weight: 400;
+    text-align: center;
 }
 
 p.timestamp {
     color: #999;
     text-align: center;
-    font-weight: 300;
-    font-size: .9rem;
-}
-
-h2 {
-    margin-top: 0;
+    font-weight: 300!important;
+    font-size: .9rem!important;
 }
 
 .main {
