@@ -45,8 +45,20 @@
   </head>
 
   <body class="fade-out" itemscope itemtype="http://schema.org/WebPage">
-  <div id="particle-canvas"></div>
   <script>window.onload = function () { document.body.className = "";}</script>
+  
+  <div id="particle-canvas"></div>
+  <script type="text/javascript" src="/js/particle-network.min.js"></script>
+    <script type="text/javascript">
+      var options = {
+        particleColor: '#eaeaea',
+        background: '#fff',
+        interactive: true,
+        speed: 'fast',
+        density: 'medium'
+        };
+      var particleCanvas = new ParticleNetwork(canvasDiv, options);
+    </script>
 
   <div class="wrapper">
     <header role="banner">
