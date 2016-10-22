@@ -2,7 +2,7 @@ body {
     text-align: center;
     opacity: 1;
     transition: 3s opacity;
-    font-family: 'Myriad Pro', 'Segoe UI', 'Lato', sans-serif;
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
     font-size: 100%;
 }
 
@@ -38,7 +38,7 @@ h1.title {
     font-size: 2.3rem;
     letter-spacing: .1px;
     text-align: center;
-    margin: 28px 0 0 0;
+    margin: 26px 0 0 0;
     color: #222;
 }
 
