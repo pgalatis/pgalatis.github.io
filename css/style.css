@@ -23,11 +23,11 @@ header[role="banner"] {
 }
 
 #circle {
-      width: 80px;
-      height: 80px;
-      -webkit-border-radius: 40px;
-      -moz-border-radius: 40px;
-      border-radius: 40px;
+      width: 60px;
+      height: 60px;
+      -webkit-border-radius: 30px;
+      -moz-border-radius: 30px;
+      border-radius: 30px;
       background: #fff;
       border: 2px solid #000;
       margin: 10px auto;
