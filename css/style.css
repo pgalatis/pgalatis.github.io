@@ -23,12 +23,14 @@ header[role="banner"] {
 }
 
 #circle {
-      width: 50px;
-      height: 50px;
+      width: 100px;
+      height: 100px;
       -webkit-border-radius: 25px;
       -moz-border-radius: 25px;
       border-radius: 25px;
-      background: red;
+      background: #fff;
+      border: 2px solid #000;
+      margin: 10px auto;
 }
 
 h1.title {
