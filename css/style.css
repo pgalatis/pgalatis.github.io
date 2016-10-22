@@ -24,7 +24,7 @@ header[role="banner"] {
 
 h1.title {
     font-weight: 300;
-    font-size: 2.3rem;
+    font-size: 1.9rem;
     letter-spacing: .1px;
     text-align: center;
     padding: 0;
@@ -43,6 +43,7 @@ nav.info a:first-child {
 
 nav.info a {
     color: #4c4c4c;
+    font-size: .9rem;
 }
 
 h2 {
