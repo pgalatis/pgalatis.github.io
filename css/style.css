@@ -107,12 +107,11 @@ header[role="banner"]:after {
 }
 
 .footer p {
-        font-size: .85rem;
 	text-align: center;
 }
 
 .footer p:first-child {
-    
+    font-size: .85rem!important;
 }
 
 a {text-decoration: none;
