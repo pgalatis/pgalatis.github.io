@@ -38,7 +38,7 @@ h1.title {
     font-size: 2.3rem;
     letter-spacing: .1px;
     text-align: center;
-    padding-top: 28px;
+    margin-top: 28px;
     margin: 0;
     color: #222;
 }
@@ -159,7 +159,7 @@ a {text-decoration: none;
   clear: both;
 }
 
-@media only screen and (max-width: 840px) {
+@media only screen and (max-width: 960px) {
 
     html, body {
       margin: 0;
