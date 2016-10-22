@@ -25,9 +25,9 @@ header[role="banner"] {
 #circle {
       width: 60px;
       height: 60px;
-      -webkit-border-radius: 30px;
-      -moz-border-radius: 30px;
-      border-radius: 30px;
+      -webkit-border-radius: 35px;
+      -moz-border-radius: 35px;
+      border-radius: 35px;
       background: #fff;
       border: 2px solid #000;
       margin: 10px auto;
@@ -38,7 +38,7 @@ h1.title {
     font-size: 1.9rem;
     letter-spacing: .1px;
     text-align: center;
-    padding: 0;
+    padding-top: 20px;
     margin: 0;
     color: #222;
 }
