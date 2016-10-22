@@ -38,8 +38,7 @@ h1.title {
     font-size: 2.3rem;
     letter-spacing: .1px;
     text-align: center;
-    margin-top: 28px;
-    margin: 0;
+    margin: 28px 0 0 0;
     color: #222;
 }
 
