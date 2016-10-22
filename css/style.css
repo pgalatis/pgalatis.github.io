@@ -23,11 +23,11 @@ header[role="banner"] {
 }
 
 #circle {
-      width: 60px;
-      height: 60px;
-      -webkit-border-radius: 35px;
-      -moz-border-radius: 35px;
-      border-radius: 35px;
+      width: 100px;
+      height: 100px;
+      -webkit-border-radius: 55px;
+      -moz-border-radius: 55px;
+      border-radius: 55px;
       background: #fff;
       border: 2px solid #000;
       margin: 10px auto;
@@ -35,10 +35,10 @@ header[role="banner"] {
 
 h1.title {
     font-weight: 400;
-    font-size: 1.9rem;
+    font-size: 2.3rem;
     letter-spacing: .1px;
     text-align: center;
-    padding-top: 20px;
+    padding-top: 28px;
     margin: 0;
     color: #222;
 }
