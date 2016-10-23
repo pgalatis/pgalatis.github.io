@@ -7,7 +7,7 @@ layout: default
 		{% for post in paginator.posts limit:4 %}
 		<article class="entry" itemscope itemtype="http://schema.org/Article">
 			<header>
-				<h2 itemprop="name"><a href="{{ post.url }}"> {{ post.title }} </h2>
+				<h2 itemprop="name"><a href="{{ post.url }}"> {{ post.title }} </a></h2>
 				<p class="timestamp" itemprop="datePublished">{{ post.date | date_to_long_string }}</p>
 			</header>		
 				{% if post.content contains '<!-- more -->' %}
@@ -24,6 +24,7 @@ layout: default
 			</article>
 		{% endfor %}
 </div>
+
 <div class="pagination group">
 		<ul>
 			{% if paginator.next_page %}
