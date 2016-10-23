@@ -110,9 +110,15 @@ aside.related h2 {
   text-align: left;
 }
 
+aside.related h3 {
+  font-size: .95rem;
+}
+
 aside.related ul {
   list-style-type: none
   font-weight: 300;
+  margin-left: 0;
+  padding-left: 0;
 }
 
 aside.related ul li {
