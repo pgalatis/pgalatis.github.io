@@ -102,7 +102,16 @@ header[role="banner"]:after {
 
 aside.related {
   text-align: left;
-  font-size: 1rem;
+  font-size: .9rem;
+}
+
+aside.related h2 {
+  font-size: .9rem;
+  text-align: left;
+}
+
+aside.related ul {
+  list-style-type: none
 }
 
 .footer {
