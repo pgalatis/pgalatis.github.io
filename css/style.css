@@ -103,12 +103,13 @@ header[role="banner"]:after {
 aside.related {
   text-align: left;
   font-size: 1rem;
-  margin-top: 20px;
+  margin-top: 60px;
 }
 
 aside.related h2 {
   font-size: 1rem;
   text-align: left;
+  font-weight: 400;
 }
 
 aside.related ul.related-posts h3 {
@@ -125,6 +126,7 @@ aside.related ul.related-posts {
 
 aside.related ul li {
   font-weight: 300;
+  list-style-type: none;
 }
 
 .footer {
