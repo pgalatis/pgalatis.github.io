@@ -103,6 +103,7 @@ header[role="banner"]:after {
 aside.related {
   text-align: left;
   font-size: 1rem;
+  margin-top: 20px;
 }
 
 aside.related h2 {
@@ -110,11 +111,12 @@ aside.related h2 {
   text-align: left;
 }
 
-aside.related h3 {
+aside.related ul.related-posts h3 {
   font-size: .95rem;
+  font-weight: 300;
 }
 
-aside.related ul {
+aside.related ul.related-posts {
   list-style-type: none
   font-weight: 300;
   margin-left: 0;
