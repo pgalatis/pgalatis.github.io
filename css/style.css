@@ -152,6 +152,7 @@ a {text-decoration: none;
 
 .entry {
     text-align: justify;
+    margin-bottom: 60px;
 }
 
 .pagination {
