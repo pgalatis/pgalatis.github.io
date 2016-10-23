@@ -156,7 +156,7 @@ a {text-decoration: none;
 }
 
 .pagination {
-    margin: 35px auto 40px auto;
+    margin: 0 auto 40px auto;
     border-bottom: 1px solid #eee;
     padding-bottom: 5px;
     font-size: .85rem;
