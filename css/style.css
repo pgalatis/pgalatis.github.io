@@ -35,7 +35,7 @@ header[role="banner"] {
 
 h1.title {
     font-weight: 400;
-    font-size: 2.3rem;
+    font-size: 2rem;
     letter-spacing: .1px;
     text-align: center;
     margin: 26px 0 0 0;
@@ -104,6 +104,8 @@ aside.related {
   text-align: left;
   font-size: 1rem;
   margin-top: 50px;
+  background-color: rgba(236, 236, 236, 0.28);
+  padding: 10px;
 }
 
 aside.related h2 {
