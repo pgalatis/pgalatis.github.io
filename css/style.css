@@ -134,7 +134,12 @@ aside.related ul li {
 }
 
 aside.related ul li h3 a {
-  border-bottom: 1px dashed #2c2c2c;
+  color: #999;
+  border-bottom: 1px dashed #999;
+}
+
+aside.related ul li h3 a:hover {
+  color: #666;
 }
 
 .footer {
