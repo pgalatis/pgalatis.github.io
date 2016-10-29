@@ -57,7 +57,8 @@ position: absolute;
     left: 40px;
     font-size: 36px;
     margin-left: 15px;
-   font-weight: bold;
+    font-weight: bold;
+    cursor: pointer;
 }
 
 /* On smaller screens, where height is less than 450px, change the style of the sidenav (less padding and a smaller font size) */
