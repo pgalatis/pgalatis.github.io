@@ -23,6 +23,7 @@ body.fade-out {
     overflow-x: hidden; /* Disable horizontal scroll */
     padding-top: 60px; /* Place content 60px from the top */
     transition: 0.8s; /* 0.5 second transition effect to slide in the sidenav */
+    border-right: 1px solid #999;
 }
 
 /* The navigation menu links */
@@ -32,7 +33,8 @@ body.fade-out {
     font-size: 14px;
     color: #333;
     display: block;
-    transition: 0.3s
+    transition: 0.3s;
+    text-align: left;
 }
 
 /* When you mouse over the navigation links, change their color */
