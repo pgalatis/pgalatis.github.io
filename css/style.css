@@ -79,7 +79,7 @@ p.timestamp {
 	font-weight: 400;
 	font-size: .985rem;
 	line-height: 1.6;
-	text-align: justify;
+	text-align: left;
 }
 
 .main p a {
@@ -165,7 +165,7 @@ a {text-decoration: none;
 }
 
 .entry {
-    text-align: justify;
+    text-align: left;
     margin-bottom: 60px;
 }
 
