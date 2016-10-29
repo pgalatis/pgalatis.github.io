@@ -58,15 +58,17 @@ nav.info a {
 
 h2 {
     margin-top: 0;
+    margin-bottom: 0;
     font-weight: 300;
-    text-align: center;
+    /*text-align: center;*/
 }
 
 p.timestamp {
     color: #999;
-    text-align: center;
+    /*text-align: center;*/
     font-weight: 300!important;
     font-size: .8rem!important;
+    margin-bottom: 10px;
 }
 
 .main {
