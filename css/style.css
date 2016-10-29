@@ -11,62 +11,6 @@ body.fade-out {
     transition: none;
 }
 
-/* The side navigation menu */
-.sidenav {
-    height: 100%; /* 100% Full-height */
-    width: 0; /* 0 width - change this with JavaScript */
-    position: fixed; /* Stay in place */
-    z-index: 1; /* Stay on top */
-    top: 0;
-    left: 0;
-    background-color: #fff; /*White*/
-    overflow-x: hidden; /* Disable horizontal scroll */
-    padding-top: 60px; /* Place content 60px from the top */
-    transition: 0.8s; /* 0.5 second transition effect to slide in the sidenav */
-    border-right: 1px solid #999;
-}
-
-/* The navigation menu links */
-.sidenav a {
-    padding: 8px 8px 8px 32px;
-    text-decoration: none;
-    font-size: 14px;
-    color: #333;
-    display: block;
-    transition: 0.3s;
-    text-align: left;
-}
-
-/* When you mouse over the navigation links, change their color */
-.sidenav a:hover, .offcanvas a:focus{
-    color: #f1f1f1;
-}
-
-/* Position and style the close button (top right corner) */
-.sidenav .closebtn {
-    position: absolute;
-    top: 20px;
-    left: 40px;
-    font-size: 36px;
-    margin-left: 15px;
-}
-
-.open {
-position: absolute;
-    top: 20px;
-    left: 40px;
-    font-size: 36px;
-    margin-left: 15px;
-    font-weight: bold;
-    cursor: pointer;
-}
-
-/* On smaller screens, where height is less than 450px, change the style of the sidenav (less padding and a smaller font size) */
-@media screen and (max-height: 450px) {
-    .sidenav {padding-top: 15px;}
-    .sidenav a {font-size: 18px;}
-}
-
 header[role="banner"] {
 	/*border-bottom: 4px solid;*/
     max-width: 70%;
