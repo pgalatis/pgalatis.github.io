@@ -4,7 +4,7 @@ title:  "Technical Photography"
 date:   2016-10-29 14:30:00 +0000
 ---
 
-I have recently been looking at ways to publish a Technical Photography Guide I had written for the programme I am working at. This guide has to be published under a CC License and be available online. 
+I have recently been looking into ways of publishing a Technical Photography Guide I had written for the programme I am working at. This guide has to be published under a CC License and be available online. 
 Thankfully, after quite a bit of research, I came across a number of amazing online projects such as [Gitbook](https://www.gitbook.com/) 
 and [Penflip](http://www.penflip.com) that allow an author to write content in Markdown and publish it in diferent formats (epub, pdf etc.).
 
