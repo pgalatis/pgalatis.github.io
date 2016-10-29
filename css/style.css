@@ -122,7 +122,7 @@ aside.related ul.related-posts h3 {
 }
 
 aside.related ul.related-posts {
-  list-style-type: none
+  list-style-type: none;
   font-weight: 300;
   margin-left: 0;
   padding-left: 0;
@@ -131,6 +131,10 @@ aside.related ul.related-posts {
 aside.related ul li {
   font-weight: 300;
   list-style-type: none;
+}
+
+aside.related ul li h3 a {
+  border-bottom: 1px dashed #2c2c2c;
 }
 
 .footer {
