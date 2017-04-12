@@ -9,7 +9,7 @@ One of the questions that keep popping up every now and then from fellow Conserv
 Well, the answer is pretty easy. Weight per volume percent solutions are defined as follows:
 
 $$
-Concentration of solute = \frac{mass of solute}{Volume of solution} x 100
+Concentration {}of{} solute = \frac{mass {}of{} solute}{Volume{} of{} solution} x 100
 $$
 
 This is usually expressed as grams of solute/100 mL of solution but it could be as easily expressed in L of solution.
@@ -31,13 +31,13 @@ and the volume of the solution, e.g. 150 g of NaCl in 600 mL of water. How would
 Well, it turns out that it's pretty simple! Remember our formula from above?
 
 $$
-Concentration of solute = \frac{mass of solute}{Volume of solution} x 100
+Concentration {}of{} solute = \frac{mass{} of {}solute}{Volume{} of{} solution} x 100
 $$
  
 Well, just plug in the numbers and you have your answer!
 
 $$
-Concentration of solute = \frac{150 g}{600 mL} x 100 = 0.25 x 100 = 25%
+Concentration {}of {}solute = \frac{150{} g}{600{} mL} x 100 = 0.25 x 100 = 25%
 $$
 
 So, the concentration of your solution is 25% w/v. And that's all!
