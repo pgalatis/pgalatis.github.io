@@ -18,7 +18,7 @@ twitter_username: pgalatis
 github_username:  pgalatis
 
 # Build settings
-markdown: redcarpet
+markdown: kramdown
 
 permalink: pretty
 paginate: 4
