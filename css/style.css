@@ -87,6 +87,10 @@ p.timestamp {
 	text-decoration: none;
 }
 
+.MathJax {
+	font-size: 1rem !important;
+}
+
 header[role="banner"]:after {
     display: block;
     content: "";
