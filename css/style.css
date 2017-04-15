@@ -20,6 +20,7 @@ header[role="banner"] {
 .wrapper {
 	margin: 60px auto;
 	max-width: 600px;
+	line-height: 25px;
 }
 
 #circle {
@@ -78,7 +79,6 @@ p.timestamp {
 .main p {
 	font-weight: 400;
 	font-size: .985rem;
-	line-height: 25px;
 	text-align: left;
 }
 
@@ -103,7 +103,6 @@ header[role="banner"]:after {
 .post p {
     font-weight: 400;
     font-size: .985rem;
-    line-height: 1.6;
 }
 
 aside.related {
