@@ -78,7 +78,7 @@ p.timestamp {
 .main p {
 	font-weight: 400;
 	font-size: .985rem;
-	line-height: 1.6;
+	line-height: 25px;
 	text-align: left;
 }
 
