@@ -4,17 +4,17 @@ title:  "Preparing weight/volume percent solutions"
 date:   2017-04-12 14:30:00 +0000
 ---
 
-One of the questions that keep popping up every now and then from fellow Conservators is "How do I prepare a 15% w/v solution of this solute into this solvent"?
+One of the questions that keep popping up every now and then from fellow colleagues is "How do I prepare a 15% w/v solution of this solute into this solvent"?
 
 Well, the answer is pretty easy. Weight per volume percent solutions are defined as follows:
 
 $$
 \begin{align}
-Concentration = \frac{mass{}of{}solute}{Volume{}of{}solution} x 100 \\
+C = \frac{m}{V} x 100
 \end{align}
 $$
 
-This is usually expressed as grams of solute/100 mL of solution but it could be as easily expressed in L (liters) of solution.
+Where *C is Concentration of the solution*, *m is mass of the solute in grams* and *V is volume of the total solution*. This is usually expressed as grams of solute/100 mL of solution but it could be as easily expressed in L (liters) of solution.
 
 So, what does that tell us? Let me give you an example. Let's suppose that we need to prepare a 10% w/v solution of NaCl in an aqueous solution. This is of course nothing else than our well-known table salt. What do we do?
 
@@ -30,11 +30,12 @@ Here's another one. Say that you have just found a jar of some solution that doe
 
 $$
 \begin{align}
-Concentration = \frac{150{}g}{600{}mL} x 100 = 0.25 x 100 = 25%
+C = \frac{150{}g}{600{}mL} x 100 = 0.25 x 100 = 25%
 \end{align}
 $$
 
 So, the concentration of your solution is 25% w/v or 25 g/100 mL. And that's all!
 
-More on solutions in the next post where I'll be talking about dilution :)
+More on solutions in the next post where I'll be talking about dilution. Hint: Have you noticed how our concentration formula above is exactly the same as the density formula? 
+
 
