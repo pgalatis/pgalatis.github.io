@@ -11,7 +11,7 @@ body.fade-out {
     transition: none;
 }
 
-header {
+header.top {
 	/*border-bottom: 4px solid;*/
     max-width: 70%;
     margin: auto;
@@ -90,7 +90,7 @@ p.timestamp {
 	font-size: 1rem !important;
 }
 
-header:after {
+header.top:after {
     display: block;
     content: "";
     width: 200px;
