@@ -123,18 +123,18 @@ aside.related h2 {
 
 aside.related ul.related-posts h3 {
   font-size: .95rem;
-  font-weight: 300;
+  font-weight: 400;
 }
 
 aside.related ul.related-posts {
   list-style-type: none;
-  font-weight: 300;
+  font-weight: 400;
   margin-left: 0;
   padding-left: 0;
 }
 
 aside.related ul li {
-  font-weight: 300;
+  font-weight: 400;
   list-style-type: none;
 }
 
@@ -169,7 +169,7 @@ a {text-decoration: none;
 }
 
 .entry {
-    text-align: justify;
+    text-align: left;
     margin-bottom: 60px;
 }
 
