@@ -2,7 +2,7 @@ body {
     text-align: center;
     opacity: 1;
     transition: 3s opacity;
-    font-family: "PT Sans", sans-serif; 
+    font-family: "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, "Helvetica Neue", sans-serif; 
     font-size: 100%;
 }
 
