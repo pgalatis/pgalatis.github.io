@@ -21,6 +21,6 @@ github_username:  pgalatis
 markdown: kramdown
 
 permalink: pretty
-paginate: 4
+paginate: 2
 highlighter: rouge
 gems: [jekyll-paginate]
