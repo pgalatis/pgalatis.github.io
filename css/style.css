@@ -2,8 +2,7 @@ body {
     text-align: center;
     opacity: 1;
     transition: 2s opacity;
-    font-family: "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, "Helvetica Neue", sans-serif; 
-    font-size: 100%;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, "Helvetica Neue", sans-serif;
 }
 
 body.fade-out {
@@ -36,7 +35,7 @@ header.top {
 
 h1.title {
     font-weight: 300;
-    font-size: 2.2rem;
+    font-size: 40px;
     text-align: center;
     margin: 30px 0;
     color: #222;
@@ -53,7 +52,7 @@ nav.info a:first-child {
 
 nav.info a {
     color: #4c4c4c;
-    font-size: .985rem;
+    font-size: 15px;
 }
 
 h2 {
@@ -67,7 +66,7 @@ p.timestamp {
     color: #999;
     text-align: center;
     font-weight: 300!important;
-    font-size: .8rem!important;
+    font-size: 13px!important;
     margin-bottom: 10px;
 }
 
@@ -77,7 +76,7 @@ p.timestamp {
 
 .main p {
 	font-weight: 400;
-	font-size: .985rem;
+	font-size: 16px;
 	text-align: left;
 }
 
@@ -87,7 +86,7 @@ p.timestamp {
 }
 
 .MathJax {
-	font-size: 1rem !important;
+	font-size: 15px !important;
 }
 
 header.top:after {
@@ -101,12 +100,12 @@ header.top:after {
 
 .post p {
     font-weight: 400;
-    font-size: .985rem;
+    font-size: 16px;
 }
 
 aside.related {
   text-align: left;
-  font-size: 1rem;
+  font-size: 15px;
   margin-top: 50px;
   background-color: rgba(236, 236, 236, 0.28);
   padding: 15px 0 10px 15px;
@@ -114,13 +113,13 @@ aside.related {
 }
 
 aside.related h2 {
-  font-size: 1rem;
+  font-size: 15px;
   text-align: left;
   font-weight: 400;
 }
 
 aside.related ul.related-posts h3 {
-  font-size: .95rem;
+  font-size: 14px;
   font-weight: 400;
 }
 
@@ -156,7 +155,7 @@ aside.related ul li h3 a:hover {
 }
 
 .footer p:first-child {
-    font-size: .85rem!important;
+    font-size: 13px!important;
 }
 
 a {text-decoration: none;
@@ -180,7 +179,7 @@ a {text-decoration: none;
     margin: 0 auto 40px auto;
     border-bottom: 1px solid #eee;
     padding-bottom: 5px;
-    font-size: .85rem;
+    font-size: 13px;
     font-weight: 400;
 }
 
