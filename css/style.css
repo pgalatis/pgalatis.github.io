@@ -170,6 +170,11 @@ a {text-decoration: none;
     margin-bottom: 60px;
 }
 
+.entry h2 a {
+	color: #000;
+	text-decoration: none
+}
+
 .entry a {
 	color: #569cbe;
 	text-decoration: none;
