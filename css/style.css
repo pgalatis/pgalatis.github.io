@@ -89,7 +89,7 @@ p.timestamp {
 
 .MathJax {
 	font-size: 1rem !important;
-	font-family: consolas, monaco, courier, "courier new", fixed-width; 
+	font-family: consolas, monaco, courier, "courier new", fixed-width !important; 
 }
 
 header[role="banner"]:after {
