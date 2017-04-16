@@ -22,6 +22,11 @@ p.lead {
 
 .fa {
 	font-size: 18px !important;
+	color: #555;
+}
+
+.fa a:hover {
+	color: #000 !important;
 }
 
 .wrapper {
