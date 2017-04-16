@@ -1,7 +1,7 @@
 body {
     opacity: 1;
     transition: 2s opacity;
-    font-family: "-apple-system", BlinkMacSystemFont, "Segoe UI", "PT Sans", Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, "Lucida Grande", "Helvetica Neue", sans-serif;
+    font-family: "-apple-system", BlinkMacSystemFont, "Segoe UI", "SF UI Text", "SF UI Display", "PT Sans", Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, "Lucida Grande", "Helvetica Neue", sans-serif;
     padding: 3rem;
 }
 
