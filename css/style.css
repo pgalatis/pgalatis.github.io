@@ -14,6 +14,15 @@ header.top {
     max-width: 70%;
 }
 
+p.lead {
+	font-size: 24px;
+	color: #333;
+}
+
+.fa {
+	font-size: 20px !important;
+}
+
 .wrapper {
 	max-width: 640px;
 	line-height: 25px;
