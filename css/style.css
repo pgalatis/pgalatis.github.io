@@ -1,8 +1,8 @@
 body {
-    text-align: center;
     opacity: 1;
     transition: 2s opacity;
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, "Lucida Grande", "Helvetica Neue", sans-serif;
+    font-family: "-apple-system", BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, "Lucida Grande", "Helvetica Neue", sans-serif;
+    padding: 3rem;
 }
 
 body.fade-out {
@@ -36,7 +36,6 @@ header.top {
 h1.title {
     font-weight: 300;
     font-size: 37px;
-    text-align: center;
     margin: 30px 0;
     color: #222;
 }
@@ -44,6 +43,7 @@ h1.title {
 nav.info {
     margin: 20px 0;
     font-weight: 400;
+    display: none;
 }
 
 nav.info a:first-child {
@@ -59,12 +59,10 @@ h2 {
     margin-top: 0;
     margin-bottom: 0;
     font-weight: 400;
-    text-align: center;
 }
 
 p.timestamp {
     color: #999;
-    text-align: center;
     font-weight: 300!important;
     font-size: 13px!important;
     margin-bottom: 10px;
@@ -94,7 +92,7 @@ header.top:after {
     content: "";
     width: 200px;
     height: 1px;
-    margin: 2rem auto;
+    margin: 2rem 0;
     background-color: #eee;
 }
 
@@ -151,7 +149,7 @@ aside.related ul li h3 a:hover {
 }
 
 .footer p {
-	text-align: center;
+	text-align: left;
 }
 
 .footer p:first-child {
@@ -223,7 +221,6 @@ img {
     html, body {
       margin: 0;
       padding: 0;
-      font-size: 95%;
     }
 
     .wrapper {
