@@ -14,8 +14,9 @@ header.top {
     max-width: 70%;
 }
 
-p.lead {
+p.hero {
 	font-size: 24px;
+	font-weight: 300;
 	color: #333;
 }
 
