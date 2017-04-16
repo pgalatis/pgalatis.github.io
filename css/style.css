@@ -111,10 +111,6 @@ p.timestamp {
 	font-size: 16px !important;
 }
 
-.mjx-chtml {
-	font-family: "Segoe UI", sans-serif !important;
-}
-
 header.top:after {
     display: block;
     content: "";
