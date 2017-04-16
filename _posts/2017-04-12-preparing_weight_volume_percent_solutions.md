@@ -16,6 +16,8 @@ $$
 
 Where *C is Concentration of the solution*, *m is mass of the solute in grams* and *V is volume of the total solution*. This is usually expressed as grams of solute/100 mL of solution but it could be as easily expressed in L (liters) of solution.
 
+<!--more-->
+
 So, what does that tell us? Let me give you an example. Let's suppose that we need to prepare a 10% w/v solution of NaCl in an aqueous solution. This is of course nothing else than our well-known table salt. What do we do?
 
 1. We weigh 10 grams of NaCl.
