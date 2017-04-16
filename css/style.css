@@ -11,7 +11,7 @@ body.fade-out {
 }
 
 header.top {
-    max-width: 70%;
+    /*max-width: 70%;*/
 }
 
 p.lead {
@@ -34,7 +34,7 @@ a:hover .fa {
 }
 
 .wrapper {
-	max-width: 680px;
+	max-width: 640px;
 	line-height: 25px;
 	margin: 0 auto;
 }
@@ -114,7 +114,7 @@ p.timestamp {
 header.top:after {
     display: block;
     content: "";
-    width: 200px;
+    max-width: 640px;
     height: 1px;
     margin: 2rem 0;
     background-color: #eee;
