@@ -36,6 +36,7 @@ a:hover .fa {
 .wrapper {
 	max-width: 680px;
 	line-height: 25px;
+	margin: 0 auto;
 }
 
 /*#circle {
