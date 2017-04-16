@@ -24,3 +24,5 @@ permalink: pretty
 paginate: 2
 highlighter: rouge
 gems: [jekyll-paginate]
+
+excerpt_separator: <!--more-->
