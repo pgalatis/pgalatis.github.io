@@ -2,10 +2,10 @@
 layout: default
 ---
 <div class="post">
-		<article class="entry" itemscope itemtype="http://schema.org/Article">
+		<article class="entry">
 			<header>
-				<h2 itemprop="name">{{ page.title }}</h2>
-				<p class="timestamp" itemprop="datePublished">{{ page.date | date_to_long_string }}</p>
+				<h2>{{ page.title }}</h2>
+				<p class="timestamp">{{ page.date | date_to_long_string }}</p>
 			</header>		
 
 					{{ content }}
