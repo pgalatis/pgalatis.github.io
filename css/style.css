@@ -15,10 +15,11 @@ header.top {
 	text-align: center;
 }
 
-.lead {
+p.lead {
 	font-size: 17px;
 	font-weight: 300;
 	color: #333;
+	line-height: 23px;
 }
 
 .fa {
