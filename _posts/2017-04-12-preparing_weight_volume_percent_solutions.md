@@ -9,9 +9,9 @@ One of the questions that keep popping up every now and then from fellow colleag
 Well, the answer is pretty easy. Weight per volume percent solutions are defined as follows:
 
 $$
-\begin{align}
+\begin{equation}
 C = \frac{m}{V} x 100
-\end{align}
+\end{equation}
 $$
 
 Where *C is Concentration of the solution*, *m is mass of the solute in grams* and *V is volume of the total solution*. This is usually expressed as grams of solute/100 mL of solution but it could be as easily expressed in L (liters) of solution.
@@ -31,9 +31,9 @@ What's confusing for some people though is that they believe that they have to w
 Here's another one. Say that you have just found a jar of some solution that does not mention the concentration *but* it mentions the mass of the solute and the volume of the solution, e.g. 150 g of NaCl in 600 mL of water. How would you calculate the w/v concentration of that one? Well, as it turns out that's pretty simple! Remember our formula from above? Just plug in the numbers and you have your answer!
 
 $$
-\begin{align}
+\begin{equation}
 C = \frac{150{}g}{600{}mL} x 100 = 0.25 x 100 = 25%
-\end{align}
+\end{equation}
 $$
 
 So, the concentration of your solution is 25% w/v or 25 g/100 mL. And that's all!
