@@ -15,13 +15,13 @@ header.top {
 }
 
 p.lead {
-	font-size: 18px;
+	font-size: 17px;
 	font-weight: 300;
 	color: #333;
 }
 
 .fa {
-	font-size: 18px !important;
+	font-size: 17px !important;
 	color: #555;
 	-webkit-transition: 0.3s ease-in;
   	-moz-transition: 0.3s ease-in;
@@ -52,7 +52,7 @@ a:hover .fa {
 
 h1.title {
     font-weight: 300;
-    font-size: 37px;
+    font-size: 36px;
     margin: 30px 0;
     color: #222;
 }
@@ -98,7 +98,7 @@ p.timestamp {
 
 .main p {
 	font-weight: 400;
-	font-size: 16px;
+	font-size: 15px;
 	text-align: left;
 }
 
@@ -108,7 +108,7 @@ p.timestamp {
 }
 
 .MathJax {
-	font-size: 16px !important;
+	font-size: 15px !important;
 }
 
 header.top:after {
@@ -122,12 +122,12 @@ header.top:after {
 
 .post p {
     font-weight: 400;
-    font-size: 16px;
+    font-size: 15px;
 }
 
 aside.related {
   text-align: left;
-  font-size: 15px;
+  font-size: 14px;
   margin: 50px 0 30px 0;
   background-color: rgba(236, 236, 236, 0.28);
   padding: 15px 0 10px 15px;
@@ -135,13 +135,13 @@ aside.related {
 }
 
 aside.related h2 {
-  font-size: 15px;
+  font-size: 14px;
   text-align: left;
   font-weight: 400;
 }
 
 aside.related ul.related-posts h3 {
-  font-size: 14px;
+  font-size: 13px;
   font-weight: 400;
 }
 
