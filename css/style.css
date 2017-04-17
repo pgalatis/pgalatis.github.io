@@ -12,6 +12,7 @@ body.fade-out {
 
 header.top {
     /*max-width: 70%;*/
+	text-align: center;
 }
 
 .lead {
@@ -171,7 +172,7 @@ aside.related ul li h3 a:hover {
 }
 
 .footer p {
-	text-align: left;
+	text-align: center;
 }
 
 .footer p:first-child {
