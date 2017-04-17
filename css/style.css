@@ -14,7 +14,14 @@ header.top {
     /*max-width: 70%;*/
 }
 
-p.lead {
+.lead {
+	font-size: 17px;
+	font-weight: 300;
+	color: #333;
+	display: inline-block;
+}
+
+.social {
 	font-size: 17px;
 	font-weight: 300;
 	color: #333;
@@ -54,6 +61,7 @@ h1.title {
     font-size: 36px;
     margin: 30px 0;
     color: #222;
+    display: inline-block;
 }
 
 h1.title a {
