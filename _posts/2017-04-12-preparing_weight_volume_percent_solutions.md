@@ -36,7 +36,7 @@ C = \frac{150{}g}{600{}mL} x 100 = 0.25 x 100 = 25%
 \end{equation}
 $$
 
-So, the concentration of your solution is 25% w/v or 25 g/100 mL. And that's all!
+Hence, the concentration of your solution is 25% w/v or 25 g/100 mL. And that's all!
 
 More on solutions in the next post where I'll be talking about dilution. Hint: Have you noticed how our concentration formula above is exactly the same as the density formula? 
 
