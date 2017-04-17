@@ -120,7 +120,7 @@ header.top:after {
     background-color: #eee;
 }
 
-.post p {
+.post p, ul, ol {
     font-weight: 400;
     font-size: 15px;
 }
