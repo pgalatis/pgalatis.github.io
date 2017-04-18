@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Preparing weight/volume percent solutions"
+title:  "Preparing weight/volume and volume/volume percent solutions"
 date:   2017-04-12 14:30:00 +0000
 ---
 
@@ -14,7 +14,7 @@ C = \frac{m}{V} x 100
 \end{equation}
 $$
 
-Where *C is Concentration of the solution*, *m is mass of the solute in grams* and *V is volume of the total solution*. This is usually expressed as grams of solute/100 mL of solution but it could be as easily expressed in L (liters) of solution.
+Where *C is the Concentration of the solution*, *m is the mass of the solute in grams* and *V is the volume of the total solution*. This is usually expressed as grams of solute/100 mL of solution but it could be as easily expressed in L (liters) of solution.
 
 <!--more-->
 
@@ -38,6 +38,19 @@ $$
 
 Hence, the concentration of your solution is 25% w/v or 25 g/100 mL. And that's all!
 
-More on solutions in the next post where I'll be talking about dilution. Hint: Have you noticed how our concentration formula above is exactly the same as the density formula? 
+##Volume/Volume percent solutions
 
+So, what about Volume/Volume (v/v) percent solutions? How are these prepared? Well, in more or less the same way as the weight/volume percent solutions apart from the fact that in the case of v/v solutions you measure the Volume of the solute over the total Volume of the solution, such that:
 
+$$
+\begin{equation}
+C = \frac{V}{V} x 100
+\end{equation}
+$$
+
+Where *C is the Concentration of the solution*, *V is the Volume of the solute in mL* and *V is the volume of the total solution*. Simply, in this case instead of measuring grams of the solute we are measuring its Volume. For example, let us assume that we have to make a 50% v/v solution of Ethanol (EtOH) in water. We would proceed as follows:
+
+1. We measure 50 mL of Ethanol.
+2. We top up our beaker until the 100 mL mark.
+
+And that's it! More on solutions in the next post where I'll be talking about dilution. Hint: Have you noticed how our concentration formula above is exactly the same as the density formula? 
