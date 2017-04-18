@@ -10,7 +10,7 @@ Well, the answer is pretty easy. Weight per volume percent solutions are defined
 
 $$
 \begin{equation}
-C = \frac{m}{V} x 100
+C = \frac{m}{V} \times 100
 \end{equation}
 $$
 
@@ -32,7 +32,7 @@ Here's another one. Say that you have just found a jar of some solution that doe
 
 $$
 \begin{equation}
-C = \frac{150{}g}{600{}mL} x 100 = 0.25 x 100 = 25%
+C = \frac{150{}g}{600{}mL} \times 100 = 0.25 \times 100 = 25%
 \end{equation}
 $$
 
@@ -44,7 +44,7 @@ So, what about Volume/Volume (v/v) percent solutions? How are these prepared? We
 
 $$
 \begin{equation}
-C = \frac{V}{V} x 100
+C = \frac{V}{V} \times 100
 \end{equation}
 $$
 
