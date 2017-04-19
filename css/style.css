@@ -108,6 +108,10 @@ p.timestamp {
 	text-decoration: none;
 }
 
+p.img {
+	text-align: center;
+}
+
 .MathJax {
 	font-size: 14px !important;
 }
