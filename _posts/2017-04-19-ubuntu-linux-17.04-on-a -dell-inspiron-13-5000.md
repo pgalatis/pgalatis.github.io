@@ -8,7 +8,7 @@ Linux or more correctly GNU/Linux has been one of my on/off passions from 1997 o
 and of course performed countless installations of various flavours of Linux on a wide range of hardware. I've had many sleepless nights and have 
 dedicated many hours of my life manually editing config files to make hardware work, installing packages etc.
 
-<p class="img"><img src="https://pgalatis.github.io/images/ubuntu.png" title="Ubuntu logo"></p>
+<p class="img"><img src="https://pgalatis.github.io/images/ubuntu.png" title="Ubuntu logo" width="200px" height="200px"></p>
 
 In 2003 I became a fervent advocate of Free and Open Source Software by setting up a website (http://promote-opensource.org) which is now long dead. 
 Since then many things have changed. One of them is that I, unfortunately, started using Linux less and less eventually settling 
