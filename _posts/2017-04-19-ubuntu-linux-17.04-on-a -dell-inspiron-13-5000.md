@@ -10,12 +10,12 @@ dedicated many hours of my life manually editing config files to make hardware w
 
 <p class="img"><img src="https://pgalatis.github.io/images/ubuntu.png" title="Ubuntu logo"></p>
 
-<!--more-->
-
 In 2003 I became a fervent advocate of Free and Open Source Software by setting up a website (http://promote-opensource.org) which is now long dead. 
 Since then many things have changed. One of them is that I, unfortunately, started using Linux less and less eventually settling 
 for a MacBook Pro which became my faithful companion for more than 5 years (it is needless of course to say at this point that I was 
 dual-booting Linux not with much success though). 
+
+<!--more-->
 
 About 4 months ago I bought a Dell Inspiron 13 5000 series. At first I used the 
 default Windows 10 installation it came with until about a month ago when I decided to install Ubuntu 16.10 on it. And guess what! I simply 
