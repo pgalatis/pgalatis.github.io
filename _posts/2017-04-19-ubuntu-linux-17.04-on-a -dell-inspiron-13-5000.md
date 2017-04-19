@@ -4,7 +4,7 @@ title:  "Ubuntu Linux 17.04 on a Dell Inspiron 13 5000"
 date:   2017-04-19 14:30:00 +0000
 ---
 
-![Ubuntu Logo](https://pgalatis.github.io/images/logo-ubuntu_st_no®-black_orange-hex.png)
+![Ubuntu Logo](https://pgalatis.github.io/images/ubuntu.png)
 
 Linux or more correctly GNU/Linux has been one of my on/off passions from 1997 or thereabouts. Since then I've used Apple Macs, Windows machines 
 and of course performed countless installations of various flavours of Linux on a wide range of hardware. I've had many sleepless nights and have 
