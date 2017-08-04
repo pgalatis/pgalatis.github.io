@@ -38,7 +38,7 @@ $$
 
 Hence, the concentration of your solution is 25% w/v or 25 g/100 mL. And that's all!
 
-##Volume/Volume percent solutions
+## Volume/Volume percent solutions
 
 So, what about Volume/Volume (v/v) percent solutions? How are these prepared? Well, in more or less the same way as the weight/volume percent solutions apart from the fact that in the case of v/v solutions you measure the Volume of the solute over the total Volume of the solution, such that:
 
