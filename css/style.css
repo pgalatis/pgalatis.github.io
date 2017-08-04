@@ -100,7 +100,7 @@ p.timestamp {
 .main p {
 	font-weight: 400;
 	font-size: 15px;
-	text-align: left;
+	text-align: justify;
 }
 
 .main p a {
