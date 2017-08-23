@@ -31,12 +31,10 @@ h1.title span.sub {
 
 nav.menu {
 	float: left;
-	display: inline;
 }
 
 nav.social {
 	float: right;
-	display: inline;
 }
 
 nav.menu a, nav.social a {
@@ -75,8 +73,8 @@ a:hover .fa {
 
 h1.title {
     font-weight: 300;
-    font-size: 36px;
-    margin: 30px 0;
+    font-size: 34px;
+    margin: 0 0 15px 0;
     color: #222;
 }
 
@@ -145,6 +143,7 @@ header.top:after {
     height: 1px;
     margin: 2rem 0;
     background-color: #eee;
+    clear: both;
 }
 
 .post p, ul, ol {
