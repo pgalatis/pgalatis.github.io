@@ -27,6 +27,7 @@ h1.title span.sub {
 	font-weight: 300;
 	padding-left: 0;
 	font-size: 14px;
+	display: none;
 }
 
 .navigation {
@@ -43,6 +44,7 @@ nav.social {
 
 nav.menu a, nav.social a {
 	padding-right: 10px;
+	font-size: 14px;
 }
 
 
@@ -78,7 +80,7 @@ a:hover .fa {
 h1.title {
     font-weight: 300;
     font-size: 34px;
-    margin: 0 0 12px 0;
+    margin: 0 0 20px 0;
     color: #222;
 }
 
