@@ -22,6 +22,25 @@ p.lead {
 	line-height: 23px;
 }
 
+span.sub {
+	color: #666;
+	font-weight: 300;
+	padding-left: 20px;
+}
+
+nav.menu {
+	float: left;
+}
+
+nav.social {
+	float: right;
+}
+
+nav.menu a, nav.social a {
+	padding-right: 10px;
+}
+
+
 .fa {
 	color: #555;
 	-webkit-transition: 0.3s ease-in;
