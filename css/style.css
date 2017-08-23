@@ -29,6 +29,10 @@ h1.title span.sub {
 	font-size: 14px;
 }
 
+.navigation {
+	padding-bottom: 5px;
+}
+
 nav.menu {
 	float: left;
 }
