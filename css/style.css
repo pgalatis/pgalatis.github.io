@@ -25,16 +25,18 @@ p.lead {
 h1.title span.sub {
 	color: #666;
 	font-weight: 300;
-	padding-left: 20px;
-	font-size: 12px;
+	padding-left: 10px;
+	font-size: 14px;
 }
 
 nav.menu {
 	float: left;
+	display: inline-block;
 }
 
 nav.social {
 	float: right;
+	display: inline-block;
 }
 
 nav.menu a, nav.social a {
