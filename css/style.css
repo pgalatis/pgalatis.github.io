@@ -31,12 +31,10 @@ h1.title span.sub {
 
 nav.menu {
 	float: left;
-	display: inline-block;
 }
 
 nav.social {
 	float: right;
-	display: inline-block;
 }
 
 nav.menu a, nav.social a {
