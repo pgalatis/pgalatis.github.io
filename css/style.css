@@ -310,6 +310,10 @@ header.top {
       margin: 0;
       border: 0;
     }
+	
+   .content {
+	padding-top: 60px;
+}
 
     header[role="banner"] {
 	/*border-bottom: 4px solid;*/
