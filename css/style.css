@@ -124,10 +124,10 @@ nav.info a {
 h2 {
     margin-top: 0;
     margin-bottom: 0;
-    font-weight: 500;
-    font-size: 3.5rem;
+    font-weight: 700;
+    font-size: 3.3rem;
     line-height: 1.2;
-	font-family: "Rubik", sans-serif;
+    text-align: left
 }
 
 p.timestamp {
