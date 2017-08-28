@@ -291,12 +291,16 @@ img {
     height: auto;
 }
 
-@media only screen and (max-width: 1080px) {
+@media only screen and (max-width: 1200px) {
 
     html, body {
       margin: 0;
       padding: 0;
     }
+	
+ .left {
+	 position: relative;
+	}
 
     .wrapper {
       width: 90%;
