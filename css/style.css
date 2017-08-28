@@ -91,7 +91,7 @@ a:hover .fa {
 
 h1.title {
     font-weight: 400;
-    font-size: 1.6rem;
+    font-size: 2rem;
     margin: 0 0 20px 0;
     color: #222;
 }
@@ -319,10 +319,6 @@ header.top {
 	/*border-bottom: 4px solid;*/
     max-width: 100%;
     margin: auto;
-	}
-
-    h1.title {
-    font-size: 2.3rem;
 	}
 	
    h2 {
