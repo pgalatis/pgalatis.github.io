@@ -1,7 +1,7 @@
 body {
     opacity: 1;
     transition: 2s opacity;
-    font-family: "Open Sans", sans-serif;
+    font-family: "Lato", sans-serif;
     margin: 0;
     padding: 0;
 }
@@ -122,9 +122,9 @@ h2 {
     margin-top: 0;
     margin-bottom: 0;
     font-weight: 700;
-    font-size: 3rem;
+    font-size: 3.5rem;
     line-height: 1.2;
-	font-family: "Montserrat", sans-serif;
+	font-family: "Rubik", sans-serif;
 }
 
 p.timestamp {
@@ -324,5 +324,8 @@ header.top {
     h1.title {
     font-size: 2.3rem;
 	}
+	
+   h2 {
+	   font-size: 2.5rem;
     
 }
