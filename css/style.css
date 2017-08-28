@@ -164,6 +164,7 @@ header.top:after {
     margin: 2rem 0;
     background-color: #eee;
     clear: both;
+    display: none;
 }
 
 .post p, ul, ol {
@@ -230,6 +231,10 @@ a {text-decoration: none;
 
 .post {
     padding-top: 30px;
+}
+
+.content {
+	padding-top: 40%
 }
 
 .entry {
