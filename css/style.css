@@ -19,6 +19,7 @@ header.top {
     /*max-width: 70%;*/
     /*text-align: center;*/
 	position: fixed;
+	margin-top: 50%;
 }
 
 p.lead {
