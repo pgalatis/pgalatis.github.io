@@ -305,7 +305,8 @@ header.top {
     .wrapper {
       width: 90%;
       padding: 0 20px;
-      margin: 60px auto;
+	line-height: 25px;
+	margin: 0;
     }
 
     header[role="banner"] {
