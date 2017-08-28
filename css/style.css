@@ -13,6 +13,7 @@ body.fade-out {
 .left {
 	width: 300px;
 	height: 100%;
+	z-index: 999999;
 }
 
 header.top {
