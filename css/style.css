@@ -300,13 +300,15 @@ img {
 	
 header.top {
 	position: relative;
+	padding: 20px;
 	}
 
     .wrapper {
       width: 90%;
       padding: 0 20px;
-	line-height: 25px;
-	margin: 0;
+      line-height: 25px;
+      margin: 0;
+      border: 0;
     }
 
     header[role="banner"] {
