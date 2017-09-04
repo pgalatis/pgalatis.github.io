@@ -323,11 +323,28 @@ header.top {
    .content {
 	padding-top: 60px;
 }
+	
+	.left {
+		width: 95%
+	}
 
     header[role="banner"] {
 	/*border-bottom: 4px solid;*/
     max-width: 100%;
     margin: auto;
+	}
+	
+h1.title {
+	display: inline;
+	}
+	
+.navigation {
+	display: inline;
+	float: right;
+	}
+	
+.navigation a img {
+	padding-top: 19px;
 	}
 	
    h2 {
