@@ -127,7 +127,8 @@ h2 {
     font-weight: 700;
     font-size: 3.3rem;
     line-height: 1.2;
-    text-align: left
+    text-align: left;
+    display: flex;
 }
 
 p.timestamp {
