@@ -314,7 +314,7 @@ header.top {
 	left: 0;
 	display: flex;
 	float: right;
-	padding-top: 20px;
+	margin-top: 16px;
 }
     .wrapper {
       width: 90%;
