@@ -310,9 +310,9 @@ header.top {
 
 	.navigation {
 	padding-bottom: 5px;
-	position: relative;
+	position: unset;
 	left: 0;
-	display: inline;
+	display: flex;
 	float: right;
 	padding-top: 20px;
 }
