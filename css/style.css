@@ -342,10 +342,11 @@ h1.title {
 .navigation {
 	display: inline;
 	float: right;
+	padding-top: 20px;
 	}
 	
 .navigation a img {
-	padding-top: 17px;
+	
 	}
 	
    h2 {
