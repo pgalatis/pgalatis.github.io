@@ -312,6 +312,9 @@ header.top {
 	padding-bottom: 5px;
 	position: relative;
 	left: 0;
+	display: inline;
+	float: right;
+	padding-top: 20px;
 }
     .wrapper {
       width: 90%;
@@ -338,12 +341,7 @@ header.top {
 h1.title {
 	display: inline;
 	}
-	
-.navigation {
-	display: inline;
-	float: right;
-	padding-top: 20px;
-	}
+
 	
 .navigation a img {
 	
