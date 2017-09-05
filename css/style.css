@@ -79,6 +79,8 @@ a:hover .fa {
 	margin: 0 0 0 300px;
     	border-left: 1px solid #eee;
     	padding-left: 30px;
+	display: flex;
+	flex-direction: column;
 }
 
 /*#circle {
@@ -326,6 +328,7 @@ header.top {
 	
    .content {
 	padding-top: 60px;
+	width: auto;
 }
 	
 	.left {
