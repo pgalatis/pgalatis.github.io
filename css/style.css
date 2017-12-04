@@ -211,6 +211,7 @@ aside.related ul li h3 a:hover {
 .footer {
     clear: both;
     font-weight: 400;
+    margin-bottom: 60px;
 }
 
 .footer p {
