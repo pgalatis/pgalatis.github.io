@@ -12,6 +12,8 @@ body.fade-out {
 header.top {
     /*max-width: 70%;*/
     text-align: center;
+    margin-top: 100px;
+    border-bottom: 1px solid #efefef;
 }
 
 p.lead {
@@ -81,9 +83,10 @@ a:hover .fa {
 
 h1.title {
     font-weight: 400;
-    font-size: 2rem;
+    font-size: 2.5rem;
     margin: 0 0 20px 0;
     color: #222;
+    padding-bottom: 20px;
 }
 
 h1.title a {
@@ -226,7 +229,7 @@ a {text-decoration: none;
 }
 
 .content {
-	padding-top: 50%;
+    padding-top: 50px;
 }
 
 .entry {
