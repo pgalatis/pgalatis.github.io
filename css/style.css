@@ -67,11 +67,6 @@ a:hover .fa {
 .wrapper {
 	max-width: 640px;
 	line-height: 25px;
-	margin: 0 0 0 300px;
-    	border-left: 1px solid #eee;
-    	padding-left: 30px;
-	display: flex;
-	flex-direction: column;
 }
 
 /*#circle {
