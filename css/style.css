@@ -2,8 +2,6 @@ body {
     opacity: 1;
     transition: 2s opacity;
     font: 400 1rem/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", Arial, sans-serif;
-    margin: 0;
-    padding: 0;
 }
 
 body.fade-out {
@@ -67,6 +65,7 @@ a:hover .fa {
 .wrapper {
 	max-width: 640px;
 	line-height: 25px;
+	margin: 0 auto;
 }
 
 /*#circle {
