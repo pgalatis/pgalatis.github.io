@@ -32,7 +32,15 @@ h1.title span.sub {
 }
 
 .navigation {
+	margin-bottom: 20px;
+}
 
+.navigation nav a:first-child {
+	padding-right: 15px
+}
+
+mavigation nav a {
+	font-weight: 300;
 }
 
 nav.menu {
