@@ -283,6 +283,11 @@ header.top {
 
 h1.title, .navigation {
     font-weight: 400;
+    }
+	
+h1.title {
+     line-height: 1.185;
+	}
 
 .wrapper {
      padding: 0;
