@@ -312,10 +312,10 @@ header[role="banner"] {
     margin: auto;
 }
 	
-.overflow img, img {
-    max-width: 110%;
+.overflow img {
+    max-width: 140%;
     height: auto;
-    margin: 0 auto;
+    margin-left: -20%;
 }
 	   
 }
