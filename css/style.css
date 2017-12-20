@@ -280,12 +280,11 @@ header.top {
     padding: 20px 0 0 20px;
     }
 
-.navigation {
+h1.title, .navigation {
     font-weight: 400;
-}
-	
+
 .wrapper {
-     padding: 0 20px;
+     padding: 0 40px;
      margin: 0;
      border: 0;
     }
