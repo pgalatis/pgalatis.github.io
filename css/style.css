@@ -265,8 +265,10 @@ a {text-decoration: none;
 }
 
 img {
-    max-width: 100%;
+    max-width: 200%;
     height: auto;
+    overflow: auto;
+    margin-left: -50%;
 }
 
 @media only screen and (max-width: 949px) {
