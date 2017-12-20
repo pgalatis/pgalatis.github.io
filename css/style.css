@@ -24,7 +24,9 @@ p.lead {
 }
 
 .navigation {
+	font: 300 17px 'Lato', sans-serif; 
 	margin-bottom: 20px;
+	
 }
 
 .navigation nav a:first-child {
@@ -67,17 +69,6 @@ a:hover .fa {
 	margin: 0 auto;
 }
 
-/*#circle {
-      width: 100px;
-      height: 100px;
-      -webkit-border-radius: 55px;
-      -moz-border-radius: 55px;
-      border-radius: 55px;
-      background: #fff;
-      border: 2px solid #000;
-      margin: 10px auto;
-}*/
-
 h1.title {
     font-family: 'Lato', sans-serif;
     font-weight: 300;
@@ -109,13 +100,9 @@ nav.info a {
 }
 
 h2 {
+    font: 700 35px/1.156 'Lato', sans-serif;	
     margin-top: 0;
     margin-bottom: 0;
-    font-weight: 700;
-    font-size: 3.3rem;
-    line-height: 1.2;
-    text-align: left;
-    display: flex;
 }
 
 p.timestamp {
@@ -207,7 +194,7 @@ aside.related ul li h3 a:hover {
 
 .footer {
     clear: both;
-    font-weight: 400;
+    font: 400 15px 'Lato', sans-serif;
     margin-bottom: 60px;
 }
 
@@ -231,7 +218,7 @@ a {text-decoration: none;
 }
 
 .entry {
-    text-align: justify;
+    text-align: left;
     margin-bottom: 60px;
 }
 
@@ -283,53 +270,36 @@ img {
     height: auto;
 }
 
-@media only screen and (max-width: 1200px) {
+@media only screen and (max-width: 949px) {
 
-    html, body {
-      margin: 0;
-      padding: 0;
+html, body {
+    margin: 0;
+    padding: 0;
     }
 	
 header.top {
-	    position: relative;
+    position: relative;
     padding: 20px 0 0 20px;
-    left: 0;
-	}
+    }
 
-	.navigation {
-	
-
-	
+.navigation {
 }
-    .wrapper {
-      width: 90%;
-      padding: 0 20px;
-      line-height: 25px;
-      margin: 0;
-      border: 0;
+	
+.wrapper {
+     max-width: 90%;
+     padding: 0 100px;
+     margin: 0;
+     border: 0;
     }
 	
-   .content {
-	padding-top: 60px;
-	width: auto;
+.content {
+     padding-top: 60px;
+     width: auto;
 }
-	
-	.left {
-		width: 95%
-	}
 
-    header[role="banner"] {
-	/*border-bottom: 4px solid;*/
+header[role="banner"] {
     max-width: 100%;
     margin: auto;
-	}
-	
-	
-.navigation a img {
-	
-	}
-	
-   h2 {
-	   font-size: 2.5rem;
-    
+}
+	   
 }
