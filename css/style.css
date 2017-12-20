@@ -275,10 +275,10 @@ img {
     margin-left: -50%;
 }
 
-@media only screen and (max-width: 1200px) {
+@media only screen and (max-width: 1280px) {
 
 html, body {
-    margin: 0;
+    margin: 0 40px;
     padding: 0;
     }
 	
@@ -296,10 +296,10 @@ h1.title {
 	}
 
 .wrapper {
-     padding: 0 20px;
+     padding: 0;
      margin: 0;
      border: 0;
-     max-width: 90%;
+     max-width: 100%;
     }
 	
 .content {
@@ -313,10 +313,9 @@ header[role="banner"] {
 }
 	
 .overflow img {
-    max-width: 180%;
+    max-width: 100%;
     height: auto;
-    margin-left: -40%;
-    overflow: hidden;
+    margin: 20px auto;
 }
 	   
 }
