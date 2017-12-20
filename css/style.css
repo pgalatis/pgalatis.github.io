@@ -313,7 +313,7 @@ header[role="banner"] {
 }
 	
 .overflow img, img {
-    max-width: 100%;
+    max-width: 110%;
     height: auto;
     margin: 0 auto;
 }
