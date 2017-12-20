@@ -30,7 +30,7 @@ p.lead {
 }
 
 .navigation nav a:first-child {
-	padding-right: 15px
+	padding-right: 15px;
 }
 
 .navigation nav a {
@@ -287,9 +287,9 @@ header.top {
     padding: 20px 0 0 20px;
     }
 
-h1.title, .navigation {
-    font-weight: 400;
-    }
+h1.title, .navigation nav a {
+	font-weight: 400;
+}
 	
 h1.title {
      line-height: 1.185;
