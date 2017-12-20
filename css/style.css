@@ -272,11 +272,10 @@ img {
 .overflow img {
     max-width: 200%;
     height: auto;
-    overflow: auto;
     margin-left: -50%;
 }
 
-@media only screen and (max-width: 750px) {
+@media only screen and (max-width: 1200px) {
 
 html, body {
     margin: 0;
@@ -314,19 +313,10 @@ header[role="banner"] {
 }
 	
 .overflow img {
-    max-width: 100%;
+    max-width: 180%;
     height: auto;
-    margin: 0;
+    margin-left: -40%;
+    overflow: hidden;
 }
 	   
-}
-
-@media only screen and (max-width: 960px) {
-	
-.overflow img {
-    max-width: 100%;
-    height: auto;
-    margin: 0;
-}	
-	
 }
