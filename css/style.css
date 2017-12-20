@@ -272,7 +272,7 @@ img {
 @media only screen and (max-width: 949px) {
 
 html, body {
-    margin: 0;
+    margin: 0 20px;
     padding: 0;
     }
 	
@@ -285,7 +285,7 @@ h1.title, .navigation {
     font-weight: 400;
 
 .wrapper {
-     padding: 0 40px;
+     padding: 0;
      margin: 0;
      border: 0;
     }
