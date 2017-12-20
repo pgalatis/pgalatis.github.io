@@ -1,7 +1,7 @@
 body {
     opacity: 1;
     transition: 2s opacity;
-    font: 400 17px/1.4756 'Lora', serif;
+    font: 400 17px/1.5566 'Lora', serif;
 }
 
 body.fade-out {
@@ -147,8 +147,6 @@ header.top:after {
 }
 
 .post p, ul, ol {
-    font-weight: 400;
-    font-size: 15px;
 }
 
 aside.related {
