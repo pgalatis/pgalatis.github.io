@@ -279,7 +279,7 @@ img {
 @media only screen and (max-width: 750px) {
 
 html, body {
-    margin: 0 20px;
+    margin: 0;
     padding: 0;
     }
 	
@@ -297,9 +297,10 @@ h1.title {
 	}
 
 .wrapper {
-     padding: 0;
+     padding: 0 20px;
      margin: 0;
      border: 0;
+     max-width: 90%;
     }
 	
 .content {
@@ -313,9 +314,9 @@ header[role="banner"] {
 }
 	
 .overflow img {
-    max-width: 140%;
+    max-width: 100%;
     height: auto;
-    margin-left: -20%;
+    margin: 0;
 }
 	   
 }
@@ -323,9 +324,9 @@ header[role="banner"] {
 @media only screen and (max-width: 960px) {
 	
 .overflow img {
-    max-width: 180%;
+    max-width: 100%;
     height: auto;
-    margin-left: -40%;
+    margin: 0;
 }	
 	
 }
