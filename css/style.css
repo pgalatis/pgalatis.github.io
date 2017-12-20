@@ -1,7 +1,7 @@
 body {
     opacity: 1;
     transition: 2s opacity;
-    font: 400 17px/1.5566 'Lora', serif;
+    font: 400 16px/1.5566 'Lora', serif;
 }
 
 body.fade-out {
