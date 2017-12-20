@@ -24,7 +24,7 @@ p.lead {
 }
 
 .navigation {
-	font: 300 17px 'Lato', sans-serif; 
+	font: 400 17px 'Lato', sans-serif; 
 	margin-bottom: 20px;
 	
 }
@@ -34,7 +34,7 @@ p.lead {
 }
 
 .navigation nav a {
-	font-weight: 300;
+	font-weight: 400;
 }
 
 nav.menu {
@@ -71,7 +71,7 @@ a:hover .fa {
 
 h1.title {
     font-family: 'Lato', sans-serif;
-    font-weight: 300;
+    font-weight: 400;
     font-size: 37px;
     text-transform: uppercase;
     margin: 0 0 20px 0;
