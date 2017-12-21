@@ -311,12 +311,15 @@ header[role="banner"] {
     max-width: 100%;
     margin: auto;
 }
+
+.overflow {
+    overflow: hidden;
+}
 	
 .overflow img {
-    width: 120%!important;
+    width: 112%!important;
     height: auto;
-    margin-left: -10%;
-    overflow: hidden!important;
+    margin-left: -6%;
 }
 	   
 }
