@@ -316,7 +316,7 @@ header[role="banner"] {
     width: 120%!important;
     height: auto;
     margin-left: -10%;
-    overflow-x: hidden;
+    overflow: hidden!important;
 }
 	   
 }
