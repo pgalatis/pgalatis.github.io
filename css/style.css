@@ -313,9 +313,9 @@ header[role="banner"] {
 }
 	
 .overflow img {
-    width: 110%!important;
+    width: 120%!important;
     height: auto;
-    margin-left: -5%;
+    margin-left: -10%;
     overflow-x: hidden;
 }
 	   
