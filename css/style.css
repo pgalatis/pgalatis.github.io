@@ -282,6 +282,8 @@ img.profile {
     max-width: 200%;
     height: auto;
     margin-left: -50%;
+    margin-bottom: 40px;
+    margin-top: 20px;
 }
 
 @media only screen and (max-width: 949px) {
