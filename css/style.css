@@ -273,6 +273,8 @@ img.profile {
    max-width: 150px;
    max-height: 150px;
    border-radius: 50%;
+   margin: 0 auto;
+   display: block;
 }
 
 .overflow img {
