@@ -194,6 +194,7 @@ aside.related ul li h3 a:hover {
     clear: both;
     font: 400 15px 'Lato', sans-serif;
     margin-bottom: 60px;
+    margin-top: 60px;
 }
 
 .footer p {
@@ -231,7 +232,7 @@ a {text-decoration: none;
 }
 
 .pagination {
-    margin: 0 auto 40px auto;
+    margin: 0 auto;
     border-bottom: 1px solid #eee;
     padding-bottom: 5px;
     font-weight: 400;
