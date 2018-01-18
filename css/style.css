@@ -30,7 +30,7 @@ p.lead {
 }
 
 .navigation nav a:first-child {
-	padding-right: 15px;
+	margin-right: 15px;
 }
 
 .navigation nav a {
