@@ -18,7 +18,7 @@ permalink: pretty
 paginate: 2
 highlighter: rouge
 gems: 
-  - [jekyll-paginate]
+  - jekyll-paginate
   - jekyll-sitemap
 
 excerpt_separator: <!--more-->
