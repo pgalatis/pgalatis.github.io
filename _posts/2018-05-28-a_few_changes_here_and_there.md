@@ -9,10 +9,10 @@ categories: Personal
 <img src="https://pgalatis.github.io/images/KTM.jpg" title="KTM">
 </div>-->
 
-Having a website --an open channel to communicate with the rest of the world-- and not having the time to use it can be frustrating. Unfortunately, these past 6 months have been extremely busy for me --to the point of exhaustion-- and that is why I haven't had the chance to update this page.
+I have finally quit my PhD. Why? Well, after having spent almost two years trying to juggle between working full-time, doing a PhD, and having a life (ha!), I came to the painful realisation that certain things in life are simply irreconcilable--simple as that, although not quite as obvious to me at first. 
 
-The most important development, which I would like to share with you, is that I've quit my Ph.D. It took me almost 2 years to finally realise that working full-time and doing a part-time Ph.D. at the same time is an impossible feat --- especially if the Ph.D. is for the most part an experimental one. 
+I'm pretty sure that just about anyone who has ever tried to pursue or has successfully completed a PhD will relate to what I'm about to say: PhDs require, among other things, *time* and *proper planning*. Without any of those two essential conditions, trying to do research at that level equates to a dog trying to play chase with its own tail. 
 
-I'm pretty sure that just about anyone who has has tried to do or has successfully completed a Ph.D. will relate to what I'm about to say: doing a Ph.D. requires --amongst other things-- *time* and *planning*. Without any of those 2 ingredients, doing a Ph.D. is basically a lost cause; like a dog chasing its own tail. 
+Having said that, bear in mind my dear reader that embarking upon a career in research is not an easy feat. You will need to be equipped with nerves of steel and tons of patience. You will have to renounce any "earthly delights" and dive right into it. Essentially, you have to lose some to win some. Whether it's worth it or not in the end, well, that's up to you to decide.  
 
-In any event, I have absolutely no regrets, and to be honest I feel like a reborn man since I sent my withdrawal email to the Graduate School. Who knows? I might be able to post more on this page now that I have part of my life back.  
+In any event, back to my senseless rant, I have absolutely no regrets, and to be honest I feel like a man reborn ever since I emailed my notice of withdrawal to the Graduate School. Who knows? I might be able to post more on this page now that I have successfully claimed part of my life back.  
