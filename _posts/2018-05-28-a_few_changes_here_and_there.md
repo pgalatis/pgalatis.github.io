@@ -15,4 +15,4 @@ I'm pretty sure that just about anyone who has ever tried to pursue or has succe
 
 Having said that, bear in mind my dear reader that embarking upon a career in research is not an easy feat. You will need to be equipped with nerves of steel and tons of patience. You will have to renounce the delights of the world---yes, even spending time with your loved ones will soon count as such---and dive right into it. Essentially, you have to lose some to win some. Whether it's worth it or not in the end, well, that's up to you to decide.  
 
-In any event and back to my senseless rant, I have absolutely no regrets, and to be honest I feel like a man reborn ever since I emailed my notice of withdrawal to the Graduate School. Who knows? I might be able to post more on this page now that I have successfully claimed part of my life back.  
+In the end I'm happy to say that I have absolutely no regrets. On the contrary, I feel like a man reborn ever since I emailed my notice of withdrawal to the Graduate School. Who knows? I might be able to post more on this page now that I have successfully claimed part of my life back.  
