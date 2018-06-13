@@ -8,9 +8,9 @@ Linux or more correctly GNU/Linux has been one of my on/off passions from 1997--
 
 <p class="img"><img src="https://pgalatis.github.io/images/ubuntu.png" title="Ubuntu logo" width="200px" height="200px"></p>
 
-In 2003 I decided to set up a website (http://promote-opensource.org), the aim of which was---yes, you guessed it---to promote free and open source software. The website might be long dead, but the passion is still there. 
-Since then so many things have changed. One of them is that, unfortunately, I started using Linux less and less eventually settling 
-for a MacBook Pro which became my faithful companion for more than 5 years---yes, I've tried dual-booting it with Linux; that didn't really work. 
+In 2003 I decided to set up a website (http://promote-opensource.org), the aim of which was---yes, you guessed it---to promote free and open source software. The website may be long dead, but the passion for everything open source never left. 
+A lot of things changed since then. One of them is that, unfortunately, I started using Linux less and less, eventually settling 
+for a MacBook Pro that became my faithful companion for more than 5 years---yes, I've tried dual-booting it with Linux; that didn't really work. 
 
 <!--more-->
 
