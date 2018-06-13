@@ -124,6 +124,11 @@ p.timestamp {
 	text-decoration: none;
 }
 
+.content p a {
+	color: #0084bf;
+	text-decoration: none;
+}
+
 p.img {
 	text-align: center;
 }
