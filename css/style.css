@@ -323,7 +323,7 @@ h1.title {
 }
 
 .navigation a.icon {
-    float: none;
+    float: right;
     display: block;
   }
 	
@@ -340,7 +340,7 @@ h1.title {
     text-align: right;
     margin: 30px 0 0 0;
     padding: 8px 0;
-    background-color: #eee;
+    border-bottom: 1px solid #333;
   }
 	
 .navigation.responsive nav a:first-child {
