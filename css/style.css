@@ -339,9 +339,8 @@ h1.title {
     display: block;
     text-align: right;
     margin: 10px 0 10px 0;
+    padding: 10px 0 10px 0;
   }
-	
-   .navigation
 	
 .wrapper {
      max-width: 90%;
@@ -352,7 +351,6 @@ h1.title {
 }
 
 .overflow {
-    
 }
 	
 .overflow img {
