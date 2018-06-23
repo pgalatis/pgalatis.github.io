@@ -303,7 +303,7 @@ html, body {
 	
 header.top {
     margin-top: 100px;
-    border-bottom: 0;
+    border-bottom: none!important;
     }
 
 h1.title, .navigation nav a {
@@ -337,6 +337,8 @@ h1.title {
     float: none;
     display: block;
     text-align: right;
+    margin: 10px 0 0 0;
+    margin-right: 0!important;
   }
 	
 .wrapper {
