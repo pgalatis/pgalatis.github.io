@@ -37,6 +37,10 @@ p.lead {
 	font-weight: 400;
 }
 
+.navigation .icon {
+	display: none;
+}
+
 nav.menu {
 	float: left;
 }
