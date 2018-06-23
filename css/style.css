@@ -328,9 +328,6 @@ h1.title {
 	}
 	
   .navigation.responsive a.icon {
-    position: absolute;
-    right: 0;
-    top: 0;
   }
 	
   .navigation.responsive nav a {
