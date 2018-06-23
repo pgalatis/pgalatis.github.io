@@ -317,6 +317,10 @@ h1.title {
 .navigation nav a {
 	display: none;
 	}
+	
+.navigation nav a:first-child {
+	margin-right: 0!important;
+}
 
 .navigation a.icon {
     float: right;
@@ -334,9 +338,10 @@ h1.title {
     float: none;
     display: block;
     text-align: right;
-    margin: 10px 0 0 0;
-    margin-right: 0!important;
+    margin: 10px 0 10px 0;
   }
+	
+   .navigation
 	
 .wrapper {
      max-width: 90%;
