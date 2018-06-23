@@ -323,7 +323,7 @@ h1.title {
 }
 
 .navigation a.icon {
-    float: right;
+    float: none;
     display: block;
   }
 	
