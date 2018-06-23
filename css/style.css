@@ -312,6 +312,10 @@ h1.title, .navigation nav a {
 h1.title {
      line-height: 1.185;
 	}
+	
+.navigation a {
+	display: none;
+	}
 
 .navigation a.icon {
     float: right;
@@ -331,7 +335,7 @@ h1.title {
   .navigation.responsive a {
     float: none;
     display: block;
-    text-align: left;
+    text-align: right;
   }
 	
 .wrapper {
