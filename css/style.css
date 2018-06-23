@@ -303,6 +303,7 @@ html, body {
 	
 header.top {
     margin-top: 100px;
+    border-bottom: 0;
     }
 
 h1.title, .navigation nav a {
