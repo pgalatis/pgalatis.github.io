@@ -329,6 +329,7 @@ h1.title {
 	
 .navigation.responsive {
 	position: relative;
+	background-color: #efefef;
 	}
 	
   .navigation.responsive a.icon {
@@ -339,7 +340,6 @@ h1.title {
     display: block;
     text-align: right;
     margin: 30px 0 0 0;
-    background-color: #eee;
     padding: 8px 0;
   }
 	
