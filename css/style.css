@@ -185,6 +185,7 @@ aside.related ul.related-posts {
 }
 
 aside.related ul li {
+  font-family: 'Lato', sans-serif;
   font-weight: 400;
   list-style-type: none;
 }
@@ -340,7 +341,7 @@ h1.title {
     text-align: right;
     margin: 30px 0 0 0;
     padding: 8px 0;
-    border-bottom: 1px solid #333;
+    border-bottom: 1px solid #efefef;
   }
 	
 .navigation.responsive nav a:first-child {
