@@ -25,7 +25,8 @@ p.lead {
 .navigation {
 	font: 400 17px 'Lato', sans-serif; 
 	margin-bottom: 20px;
-	
+ 	text-align: right;
+    	padding-top: 7px;	
 }
 
 .navigation nav a:first-child {
@@ -71,11 +72,12 @@ a:hover .fa {
 h1.title {
     font-family: 'Lato', sans-serif;
     font-weight: 400;
-    font-size: 37px;
+    font-size: 30px;
     text-transform: uppercase;
     margin: 0 0 20px 0;
     color: #222;
     padding-bottom: 13px;
+    float: left;
 }
 
 h1.title a {
