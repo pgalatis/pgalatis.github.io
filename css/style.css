@@ -30,11 +30,12 @@ p.lead {
 }
 
 .navigation nav a:first-child {
-	margin-right: 15px;
+	margin-left: 0;
 }
 
 .navigation nav a {
 	font-weight: 400;
+	margin-left: 12px;
 }
 
 .navigation .icon {
