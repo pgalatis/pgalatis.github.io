@@ -329,7 +329,6 @@ h1.title {
 	
 .navigation.responsive {
 	position: relative;
-	background-color: #efefef;
 	}
 	
   .navigation.responsive a.icon {
@@ -341,7 +340,12 @@ h1.title {
     text-align: right;
     margin: 30px 0 0 0;
     padding: 8px 0;
+    background-color: #eee;
   }
+	
+.navigation.responsive nav a:first-child {
+	margin-top: 30px;
+	}
 	
 .wrapper {
      max-width: 90%;
