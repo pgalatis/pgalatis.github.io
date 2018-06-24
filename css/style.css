@@ -326,7 +326,7 @@ h1.title {
 .navigation a.icon {
     float: right;
     display: block;
-    padding-top: 5px;
+    margin-top: 3px;
   }
 	
 .navigation.responsive {
