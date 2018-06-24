@@ -326,10 +326,15 @@ h1.title {
 .navigation a.icon {
     float: right;
     display: block;
+    padding-top: 5px;
   }
 	
 .navigation.responsive {
 	position: relative;
+	}
+	
+.navigation.responsive nav {
+	margin-top: 60px;
 	}
 	
   .navigation.responsive a.icon {
@@ -338,7 +343,7 @@ h1.title {
   .navigation.responsive nav a {
     float: none;
     display: block;
-    text-align: right;
+    text-align: center;
     margin: 30px 0 0 0;
     padding: 8px 0;
     border-bottom: 1px solid #efefef;
