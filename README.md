@@ -10,4 +10,4 @@ written permission:</p>
 </dt>
 </dl>
 
-<p>All other directories and files are MIT Licensed. Feel free to use the HTML and CSS as you please. If you do use them, a link back to http://github.com/pgalatis/pgalatis.github.io would be greatly appreciated, but is not required.</p>
+<p>All other directories and files are MIT Licensed. Feel free to use the HTML and CSS as you please. If you do use them, a link back to http://github.com/pgalatis/pgalatis.github.io would be greatly appreciated but is not required.</p>
