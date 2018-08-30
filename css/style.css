@@ -1,7 +1,7 @@
 body {
     opacity: 1;
     transition: 2s opacity;
-    font: 400 16px/1.5566 'Lora', serif;
+    font: 400 14px/1.5566 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
 }
 
 body.fade-out {
@@ -23,10 +23,9 @@ p.lead {
 }
 
 .navigation {
-	font: 400 15px 'Lato', sans-serif; 
 	margin-bottom: 20px;
  	text-align: right;
-    	padding-top: 7px;	
+    	padding-top: 10px;	
 }
 
 .navigation nav a:first-child {
@@ -75,7 +74,6 @@ a:hover .fa {
 }
 
 h1.title {
-    font-family: 'Lato', sans-serif;
     font-weight: 400;
     font-size: 30px;
     margin: 0 0 20px 0;
@@ -105,7 +103,9 @@ nav.info a {
 }
 
 h2 {
-    font: 700 31px/1.156 'Lato', sans-serif;
+    font-weight: 700; 
+    font-size: 30px; 
+    line-height: 1.156;
 }
 
 p.timestamp {
@@ -185,7 +185,6 @@ aside.related ul.related-posts {
 }
 
 aside.related ul li {
-  font-family: 'Lato', sans-serif;
   font-weight: 400;
   list-style-type: none;
 }
@@ -201,7 +200,8 @@ aside.related ul li h3 a:hover {
 
 .footer {
     clear: both;
-    font: 400 15px 'Lato', sans-serif;
+    font-weight: 400; 
+    font-size: 15px;
     margin-bottom: 60px;
     margin-top: 60px;
 }
@@ -245,7 +245,6 @@ a {text-decoration: none;
     border-bottom: 1px solid #eee;
     padding-bottom: 5px;
     font-weight: 400;
-    font-family: 'Lato', sans-serif;
 }
 
 .pagination ul {
