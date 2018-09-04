@@ -334,6 +334,7 @@ h1.title {
 	
 .navigation.responsive nav {
 	margin-top: 60px;
+	transition: width 2s linear 1s;
 	}
 	
   .navigation.responsive a.icon {
