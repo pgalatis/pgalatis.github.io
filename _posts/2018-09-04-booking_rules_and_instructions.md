@@ -5,11 +5,11 @@ date:   2018-09-04 20:22:00 +0000
 categories: Personal
 ---
 
-##Summary
+## Summary
 
 This document describes the rules and the procedure for booking a piece of equipment in Burt Hall. It also includes a section on how to use the Photographic Studio.
 
-##Rules on booking and using equipment in Burt Hall
+## Rules on booking and using equipment in Burt Hall
 
 Please make sure that you follow the rules mentioned below, otherwise your access privileges might be revoked. You must also ensure that you refer to the specific rules and operating manuals for each instrument.
 
@@ -25,7 +25,7 @@ Please make sure that you follow the rules mentioned below, otherwise your acces
 - If an instrument malfunctions, report it to the technician or any other member of staff immediately. You must also leave a note on the instrument to inform others about the issue.
 - Switch the instrument(s) off when finished. If you need assistance, please contact the technician or any other member of staff at once.
 
-##How to use the online booking system
+## How to use the online booking system
 
 You may use the online booking system to book the following equipment and studio spaces:
 
@@ -49,7 +49,7 @@ To use the online booking system, please follow the instructions below:
 - Confirm your booking by clicking on **Save**.
 - To delete a booking, please contact the technician.
 
-##Rules on Using the Photographic Studio
+## Rules on Using the Photographic Studio
 
 Please observe the following rules on how to use the Photo Studio in Burt Hall and ensure that you fully understand and comply with them.
 
