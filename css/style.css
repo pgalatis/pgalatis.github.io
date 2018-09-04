@@ -160,6 +160,7 @@ header.top:after {
 #markdown-toc::before {
     content: "Contents";
     font-weight: bold;
+    margin-left: -20px;
 }
 
 #markdown-toc ul {
@@ -167,8 +168,10 @@ header.top:after {
 
 #markdown-toc {
     border: none;
-    padding: 10px 5px;
-    background-color: #efefef;
+    padding: 15px 30px;
+    /* list-style: decimal; */
+    display: inline-block;
+    background-color: rgba(236, 236, 236, 0.28);
 }
 
 aside.related {
