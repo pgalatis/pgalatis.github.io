@@ -157,6 +157,23 @@ header.top:after {
 .post p, ul, ol {
 }
 
+#markdown-toc::before {
+    content: "Contents";
+    font-weight: bold;
+}
+
+#markdown-toc ul {
+    list-style: decimal;
+}
+
+#markdown-toc {
+    border: none;
+    padding: 10px 5px;
+    list-style: decimal;
+    display: inline-block;
+    background-color: #efefef;
+}
+
 aside.related {
   text-align: left;
   font-size: 14px;
