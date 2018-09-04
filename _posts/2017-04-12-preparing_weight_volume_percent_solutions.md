@@ -3,12 +3,18 @@ layout: post
 title:  "Preparing weight/volume and volume/volume percent solutions"
 date:   2017-04-12 14:30:00 +0000
 ---
-* Do not remove this line (it will not be displayed)
+* TOC
 {:toc}
 
-One of the questions that keep popping up every now and then from fellow colleagues is "How do I prepare a 15% w/v solution of this solute into this solvent"?
+### Introduction
 
-Well, the answer is pretty easy. Weight per volume percent solutions are defined as follows:
+One of the questions that keep popping up every now among Conservators is, "How do I prepare a percent solution of _x_ solute into a _y_ solvent"? Well, the answer to that is pretty easy, especially in Art Conservation where we mostly tend to use *Weight per Volume* or *Volume per Volume* percent concentrations.
+
+Let us first have a look at what each percent concentration means.
+
+### Weight/Volume percent solutions
+
+Weight per Volume (w/v) percent solutions are defined as the ratio of the mass of the solute over the **total** volume of the solution multiplied by 100. The formula is the following:
 
 $$
 \begin{equation}
@@ -40,9 +46,9 @@ $$
 
 Hence, the concentration of your solution is 25% w/v or 25 g/100 mL. And that's all!
 
-## Volume/Volume percent solutions
+### Volume/Volume percent solutions
 
-So, what about Volume/Volume (v/v) percent solutions? How are these prepared? Well, in more or less the same way as the weight/volume percent solutions apart from the fact that in the case of v/v solutions you measure the Volume of the solute over the total Volume of the solution, such that:
+So, what about Volume/Volume (v/v) percent solutions? How are these prepared? Well, in more or less the same way as the weight/volume percent solutions despite that in the case of v/v solutions you measure the Volume of the solute over the total Volume of the solution, such that:
 
 $$
 \begin{equation}
