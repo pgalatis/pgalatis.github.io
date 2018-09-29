@@ -263,20 +263,20 @@ a {text-decoration: none;
 	text-decoration: none;
 }
 
-.pagination {
+.paginate {
     margin: 0 auto;
     border-bottom: 1px solid #eee;
     padding-bottom: 5px;
     font-weight: 400;
 }
 
-.pagination ul {
+.paginate ul {
     font-size: 13px; 
     padding: 0;
     margin: 0;
 }
 
-.pagination ul li {
+.paginate ul li {
     list-style: none;
     margin: 0;
     padding: 0;
