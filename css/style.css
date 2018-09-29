@@ -290,7 +290,7 @@ a {text-decoration: none;
     float: right;
 }
 
-.group:after {
+.paginate:after {
   content: "";
   display: table;
   clear: both;
