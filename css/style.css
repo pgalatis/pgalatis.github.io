@@ -109,6 +109,7 @@ h2 {
     font-weight: 300; 
     font-size: 42px; 
     line-height: 1.156;
+    margin-bottom: 5px;
 }
 
 h3 {
@@ -121,7 +122,7 @@ p.timestamp {
     color: #999;
     font-weight: 300!important;
     font-size: 13px!important;
-    margin-bottom: 20px;
+    margin-bottom: 30px;
     margin-top: 0;
 }
 
