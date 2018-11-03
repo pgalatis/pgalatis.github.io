@@ -1,7 +1,7 @@
 body {
     opacity: 1;
     transition: 2s opacity;
-    font: 400 14px/1.5566 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    font: 400 15px/1.5566 "Source Sans Pro", Arial, sans-serif;
 }
 
 body.fade-out {
@@ -322,6 +322,7 @@ img.profile {
 html, body {
     margin: 0;
     padding: 0;
+    font-size: 16px
     }
 	
 header.top {
