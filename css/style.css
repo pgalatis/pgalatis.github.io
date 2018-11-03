@@ -2,6 +2,8 @@ body {
     opacity: 1;
     transition: 2s opacity;
     font: 400 15px/1.5566 "Source Sans Pro", Arial, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
 }
 
 body.fade-out {
