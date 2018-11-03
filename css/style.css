@@ -23,6 +23,7 @@ header.top {
     right: 0;
     left: 0;
     z-index: 1030;
+    background-color: #fff;
 }
 
 p.lead {
@@ -33,9 +34,8 @@ p.lead {
 }
 
 .navigation {
-	margin-bottom: 10px;
  	text-align: right;
-    	padding-top: 8px;	
+    	padding-top: 25px;	
 }
 
 .navigation nav a:first-child {
@@ -86,9 +86,7 @@ a:hover .fa {
 h1.title {
     font-weight: 400;
     font-size: 30px;
-    margin: 0 0 20px 0;
     color: #222;
-    padding-bottom: 13px;
     float: left;
 }
 
