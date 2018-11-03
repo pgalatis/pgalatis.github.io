@@ -255,7 +255,7 @@ a {text-decoration: none;
 }
 
 .content {
-    padding-top: 50px;
+    padding-top: 90px;
 }
 
 .entry {
@@ -336,8 +336,6 @@ html, body {
     }
 	
 header.top {
-    margin-top: 100px;
-    border-bottom: none!important;
     }
 
 h1.title, .navigation nav a {
@@ -391,7 +389,7 @@ h1.title {
     }
 	
 .content {
-     padding-top: 60px;
+     padding-top: 90px;
 }
 
 .overflow {
