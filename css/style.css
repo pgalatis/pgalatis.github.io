@@ -5,6 +5,8 @@ body {
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     color: #231f20;
+    margin: 0;
+    padding: 0;
 }
 
 body.fade-out {
@@ -14,8 +16,9 @@ body.fade-out {
 
 header.top {
     text-align: center;
-    margin-top: 100px;
-    /*border-bottom: 1px solid #efefef;*/
+    margin: 0;
+    padding: 20px 0;
+    border-bottom: 1px solid #efefef;
 }
 
 p.lead {
