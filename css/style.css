@@ -1,6 +1,4 @@
 body {
-    opacity: 1;
-    transition: 2s opacity;
     font: 400 15px/1.5566 "Source Sans Pro", Arial, sans-serif;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
@@ -9,14 +7,13 @@ body {
     padding: 0;
 }
 
-body.fade-out {
-    opacity: 0;
-    transition: none;
-}
-
 header.top {
     text-align: right;
     margin: 10px 0;
+}
+
+.hero {
+	margin: 100px;
 }
 
 p.lead {
