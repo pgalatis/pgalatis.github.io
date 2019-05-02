@@ -8,7 +8,7 @@ layout: null
     <description>Panos Galatis's Microblog</description>
     <link>{{ site.url }}</link>
     <atom:link href="{{ site.url }}/microblog.xml" rel="self" type="application/rss+xml" />
-    {% for post in site.categories.categoryname reversed limit:50 %}
+    {% for post in site.categories.microblog reversed limit:50 %}
       <item>
         <description>{{ post.content | xml_escape }}{% if post.external-url %}{% endif %}</description>
         <pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
