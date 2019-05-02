@@ -274,7 +274,7 @@ a {text-decoration: none;
 
 .paginate {
     margin: 0 auto;
-    border-bottom: 1px solid #eee;
+    /*border-bottom: 1px solid #eee;*/
     padding-bottom: 5px;
     font-weight: 400;
 }
