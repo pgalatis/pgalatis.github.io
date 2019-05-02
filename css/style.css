@@ -37,7 +37,7 @@ img.profile {
 p.desc {
 	font-size: 21px;
 	font-weight: 400;
-	color: #6b6b6b;
+	color: rgba(128, 128, 128, 0.85);
 }
 
 p.lead {
