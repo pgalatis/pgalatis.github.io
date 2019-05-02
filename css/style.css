@@ -23,7 +23,7 @@ nav.tmenu a {
 }
 
 .hero > p {
-	margin: 0 auto;
+	text-align: center;
 }
 
 img.profile {
@@ -35,13 +35,13 @@ img.profile {
 }
 
 p.desc {
-	font-size: 17px;
+	font-size: 20px;
 	font-weight: 400;
 	color: #6b6b6b;
 }
 
 p.lead {
-	font-size: 18px;
+	font-size: 23px;
 	font-weight: 700;
 	color: #333;
 	line-height: 23px;
