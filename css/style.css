@@ -78,19 +78,6 @@ nav.menu a, nav.social a {
 	font-size: 14px;
 }
 
-
-.fa {
-	color: #555;
-	-webkit-transition: 0.3s ease-in;
-  	-moz-transition: 0.3s ease-in;
-  	-ms-transition: 0.3s ease-in;
-  	transition: 0.3s ease-in;     
-}
-
-a:hover .fa {
-	color: #000 !important;
-}
-
 .wrapper {
 	max-width: 740px;
 	line-height: 25px;
@@ -125,21 +112,21 @@ nav.info a {
 }
 
 h2 {
-    font-weight: 300; 
-    font-size: 42px; 
+    font-weight: 700; 
+    font-size: 29px; 
     line-height: 1.156;
     margin-bottom: 5px;
 }
 
 h3 {
-    font-weight: 300;
-    font-size: 30px;
+    font-weight: 600;
+    font-size: 26px;
     line-height: 1.156;
 }
 
 p.timestamp {
     color: #999;
-    font-weight: 300!important;
+    font-weight: 400!important;
     font-size: 13px!important;
     margin-bottom: 30px;
     margin-top: 0;
@@ -171,17 +158,6 @@ p.img {
 
 .MathJax {
 	font-size: 14px !important;
-}
-
-header.top:after {
-    display: block;
-    content: "";
-    max-width: 640px;
-    height: 1px;
-    margin: 2rem 0;
-    background-color: #eee;
-    clear: both;
-    display: none;
 }
 
 .post p, ul, ol {
