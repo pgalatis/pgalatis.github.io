@@ -253,6 +253,15 @@ a {text-decoration: none;
     margin-bottom: 60px;
 }
 
+.entry:after {
+    display: block;
+    content: "";
+    width: 740px;
+    height: 1px;
+    margin: 10px auto;
+    background-color: #999;
+}
+
 .entry h2 a {
 	color: #3b3b3b;
 	text-decoration: none
