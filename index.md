@@ -20,7 +20,7 @@ layout: default
 					{{ post.content }}
 	
 				{% endif %}
-			<p class="timestamp">{{ post.date | date_to_long_string }}</p>
+			<p class="timestamp">&rarr;&nbsp;{{ post.date | date_to_long_string }}</p>
 			</article>
 		{% endfor %}
 </div>
