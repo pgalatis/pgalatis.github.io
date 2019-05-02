@@ -258,8 +258,8 @@ a {text-decoration: none;
     content: "";
     width: 740px;
     height: 1px;
-    margin: 10px auto;
-    background-color: #999;
+    margin: 50px auto 0 auto;
+    background-color: #eee;
 }
 
 .entry h2 a {
