@@ -16,6 +16,13 @@ header.top {
 	margin: 100px;
 }
 
+img.profile {
+   max-width: 150px;
+   max-height: 150px;
+   border-radius: 50%;
+   display: block;
+}
+
 p.lead {
 	font-size: 17px;
 	font-weight: 300;
@@ -299,14 +306,6 @@ a {text-decoration: none;
 img {
     max-width: 100%;
     height: auto;
-}
-
-img.profile {
-   max-width: 150px;
-   max-height: 150px;
-   border-radius: 50%;
-   margin: 0 auto 30px auto;
-   display: block;
 }
 
 .overflow img {
