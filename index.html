@@ -6,12 +6,12 @@ layout: default
 <div class="post group">
 		{% for post in paginator.posts limit:2 %}
 		<article class="entry">
-			{% if post.title %}
+			{% if post.title == "" %}
+			<header style="display: none;"></header>
+			{% else %}
 			<header>
 				<h2><a href="{{ post.url }}"> {{ post.title }}</a></h2>
 			</header>
-			{% else %}
-				<h2 style="display: none">&nbsp;</h2>
 			{% endif %}
 				{% if post.content contains '<!--more-->' %}
 	
