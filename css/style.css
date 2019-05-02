@@ -126,11 +126,16 @@ h3 {
 }
 
 p.timestamp {
-    color: #999;
+    color: #9a9a9a;
     font-weight: 400!important;
-    font-size: 13px!important;
+    font-size: 15px!important;
     margin-bottom: 30px;
     margin-top: 0;
+    text-transform: uppercase;
+}
+
+p.timestamp:before {
+	content: "&raquo;";
 }
 
 .main {
