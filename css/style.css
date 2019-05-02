@@ -134,10 +134,6 @@ p.timestamp {
     text-transform: uppercase;
 }
 
-p.timestamp:before {
-	content: "&raquo;";
-}
-
 .main {
 	padding-top: 30px;
 }
