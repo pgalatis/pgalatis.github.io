@@ -9,11 +9,12 @@ body {
 
 header.top {
     text-align: right;
-    margin: 20px 20px 40px 0;
+    margin: 20px 40px 40px 0;
 }
 
 nav.tmenu a {
-	font-size: 16px;
+	font-size: 17px;
+	font-weight: 700;
 }
 	
 
@@ -29,9 +30,15 @@ img.profile {
    margin: 0 auto;
 }
 
-p.lead {
+p.desc {
 	font-size: 17px;
-	font-weight: 300;
+	font-weight: 400;
+	color: #6b6b6b;
+}
+
+p.lead {
+	font-size: 18px;
+	font-weight: 700;
 	color: #333;
 	line-height: 23px;
 }
