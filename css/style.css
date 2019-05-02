@@ -35,17 +35,16 @@ img.profile {
 }
 
 p.desc {
-	font-size: 23px;
+	font-size: 21px;
 	font-weight: 400;
 	color: #6b6b6b;
 }
 
 p.lead {
-	font-size: 26px;
+	font-size: 30px;
 	font-weight: 700;
 	color: #333;
-	line-height: 23px;
-	padding: 5px 0;
+	line-height: 17px;
 }
 
 .navigation {
@@ -93,7 +92,7 @@ a:hover .fa {
 }
 
 .wrapper {
-	max-width: 600px;
+	max-width: 740px;
 	line-height: 25px;
 	margin: 0 auto;
 }
