@@ -6,9 +6,11 @@ layout: default
 <div class="post group">
 		{% for post in paginator.posts limit:2 %}
 		<article class="entry">
+			{% if post.title %}
 			<header>
 				<h2><a href="{{ post.url }}"> {{ post.title }} </a></h2>
-			</header>		
+			</header>
+			{% endif %}
 				{% if post.content contains '<!--more-->' %}
 	
 					{{ post.content | split:'<!--more-->' | first }}
