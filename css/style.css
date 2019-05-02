@@ -9,11 +9,16 @@ body {
 
 header.top {
     text-align: right;
-    margin: 10px 0;
+    margin: 20px 20px 40px 0;
 }
 
+nav.tmenu a {
+	font-size: 16px;
+}
+	
+
 .hero {
-	margin: 100px auto 50px auto;
+	margin: 150px 0 40px 0;
 }
 
 img.profile {
@@ -21,6 +26,7 @@ img.profile {
    max-height: 150px;
    border-radius: 50%;
    display: block;
+   margin: 0 auto;
 }
 
 p.lead {
