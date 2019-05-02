@@ -8,7 +8,6 @@ layout: default
 		<article class="entry">
 			<header>
 				<h2><a href="{{ post.url }}"> {{ post.title }} </a></h2>
-				<p class="timestamp">{{ post.date | date_to_long_string }}</p>
 			</header>		
 				{% if post.content contains '<!--more-->' %}
 	
@@ -21,6 +20,7 @@ layout: default
 					{{ post.content }}
 	
 				{% endif %}
+			<p class="timestamp">{{ post.date | date_to_long_string }}</p>
 			</article>
 		{% endfor %}
 </div>
