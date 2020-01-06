@@ -27,8 +27,8 @@ nav.tmenu a {
 }
 
 img.profile {
-   max-width: 150px;
-   max-height: 150px;
+   max-width: 175px;
+   max-height: 175px;
    border-radius: 50%;
    display: block;
    margin: 0 auto;
@@ -41,7 +41,7 @@ p.desc {
 }
 
 #poster {
-    font-size: 1.1rem;
+    font-size: 1.8rem;
     font-weight: 300;
     color: #666;
     line-height: 2.5rem;
@@ -259,7 +259,7 @@ a {text-decoration: none;
 }
 
 .content {
-    padding-top: 90px;
+    padding-top: 10px;
 }
 
 .entry {
