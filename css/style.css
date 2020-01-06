@@ -41,10 +41,15 @@ p.desc {
 }
 
 #poster {
-    font-size: 1.5rem;
+    font-size: 1.1rem;
     font-weight: 300;
     color: #666;
     line-height: 2.5rem;
+}
+
+#poster a {
+	text-decoration: none;
+	color: #4da6ff;
 }
 
 p.lead {
@@ -247,7 +252,7 @@ aside.related ul li h3 a:hover {
 }
 
 a {text-decoration: none;
-   color: #4da6ff;}
+   color: #666;}
 
 .post {
     padding-top: 30px;
