@@ -36,8 +36,15 @@ img.profile {
 
 p.desc {
 	font-size: 21px;
-	font-weight: 400;
+	font-weight: 300;
 	color: rgba(128, 128, 128, 0.85);
+}
+
+#poster {
+    font-size: 1.5rem;
+    font-weight: 300;
+    color: #666;
+    line-height: 2.5rem;
 }
 
 p.lead {
@@ -240,7 +247,7 @@ aside.related ul li h3 a:hover {
 }
 
 a {text-decoration: none;
-   color: #333;}
+   color: #4da6ff;}
 
 .post {
     padding-top: 30px;
