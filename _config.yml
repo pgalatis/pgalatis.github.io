@@ -10,6 +10,7 @@ github_username:  pgalatis
 # Plugins
 plugins:
   - jekyll-sitemap
+  - jekyll-archives
 
 # Build settings
 markdown: kramdown
