@@ -13,16 +13,17 @@ header.top {
 }
 
 nav.tmenu {
-	display: inline-block;
+	margin: 15px 0;
 }
 
 nav.tmenu a {
-	font-size: 16px;
+	display: inline-block;
+	font-size: 17px;
 }
 	
 
 .hero {
-	margin: 150px 0 40px 0;
+	margin: 100px 0 0 0;
 }
 
 .hero > p {
