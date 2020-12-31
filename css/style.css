@@ -15,12 +15,16 @@ header.top {
 nav.tmenu {
 	margin: 40px 0 20px 0;
 	text-align: center;
+	vertical-align: baseline;
 }
 
 nav.tmenu a {
 	display: inline-block;
 	font-size: 17px;
-	margin: 0 20px 0 0;
+}
+
+nav.tmenu a:first-child {
+	margin-right: 20px;
 }
 	
 
