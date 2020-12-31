@@ -112,6 +112,10 @@ nav.menu a, nav.social a {
 	max-width: 740px;
 	line-height: 25px;
 	margin: 0 auto;
+	overflow: hidden;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
 }
 
 h1.title {
