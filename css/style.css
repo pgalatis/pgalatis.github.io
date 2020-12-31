@@ -29,7 +29,7 @@ nav.tmenu a:first-child {
 	
 
 .hero {
-	margin: 80px 0 0 0;
+	margin: 60px 0 40px 0;
 }
 
 .hero > p {
@@ -267,11 +267,11 @@ a {text-decoration: none;
    color: #666;}
 
 .post {
-    padding-top: 30px;
+    
 }
 
 .content {
-    padding-top: 10px;
+    
 }
 
 .entry {
