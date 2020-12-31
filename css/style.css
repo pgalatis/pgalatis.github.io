@@ -21,6 +21,7 @@ nav.tmenu {
 nav.tmenu a {
 	display: inline-block;
 	font-size: 17px;
+	text-transform: lowercase;
 }
 
 nav.tmenu a:first-child {
