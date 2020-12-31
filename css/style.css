@@ -33,8 +33,8 @@ nav.tmenu a {
 }
 
 img.profile {
-   max-width: 175px;
-   max-height: 175px;
+   max-width: 155px;
+   max-height: 155px;
    border-radius: 50%;
    display: block;
    margin: 0 auto;
@@ -135,6 +135,7 @@ h2 {
     font-size: 29px; 
     line-height: 1.156;
     margin-bottom: 20px;
+    text-align: center;
 }
 
 h3 {
