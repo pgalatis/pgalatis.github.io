@@ -12,9 +12,12 @@ header.top {
     margin: 20px 40px 40px 0;
 }
 
+nav.tmenu {
+	display: inline-block;
+}
+
 nav.tmenu a {
-	font-size: 17px;
-	font-weight: 700;
+	font-size: 16px;
 }
 	
 
