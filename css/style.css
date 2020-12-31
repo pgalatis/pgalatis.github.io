@@ -13,14 +13,14 @@ header.top {
 }
 
 nav.tmenu {
-	margin: 20px 0;
+	margin: 40px 0 20px 0;
 	text-align: center;
 }
 
 nav.tmenu a {
 	display: inline-block;
 	font-size: 17px;
-	margin: 0 6px 0 0;
+	margin: 0 12px 0 0;
 }
 	
 
