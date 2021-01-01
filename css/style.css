@@ -110,7 +110,7 @@ nav.menu a, nav.social a {
 
 .wrapper {
 	max-width: 740px;
-	line-height: 25px;
+	line-height: 1.7rem;
 	margin: 0 auto;
 	overflow: hidden;
         display: flex;
@@ -148,7 +148,6 @@ nav.info a {
 h2 {
     font-weight: 700; 
     font-size: 29px; 
-    line-height: 1.156;
     margin-bottom: 40px;
     text-align: center;
 }
@@ -156,7 +155,6 @@ h2 {
 h3 {
     font-weight: 600;
     font-size: 26px;
-    line-height: 1.156;
 }
 
 p.timestamp {
@@ -372,7 +370,7 @@ h1.title, .navigation nav a {
 }
 	
 h1.title {
-     line-height: 1.185;
+     
 	}
 	
 .navigation nav a {
