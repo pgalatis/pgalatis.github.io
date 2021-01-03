@@ -21,6 +21,7 @@ header.top {
 /* Add a black background color to the top navigation */
 .mobilenav {
   overflow: hidden;
+  display: none;
 }
 
 .mobilenav a {
@@ -393,6 +394,10 @@ body {
 	
 header.top {
     }
+	
+nav.tmenu {
+	display: none;
+	}
 
 .mobilenav a:not(:first-child) {display: none;}
 
