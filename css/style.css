@@ -363,7 +363,7 @@ img {
 body {
     margin: 0 20px;
     padding: 0 20px;
-    font-size: 17px;
+    font-size: 16px;
     overflow-x: hidden;
     }
 	
@@ -381,7 +381,7 @@ nav.tmenu a.icon {
     margin: 0;
 	}
 	
-nav.tmenu.responsive {position: relative;}
+nav.tmenu.responsive {position: relative; transition: all .2s ease-in-out;}
   
 nav.tmenu.responsive a.icon {
     margin: 0;
@@ -423,7 +423,6 @@ h1.title {
 	
 .navigation.responsive nav {
 	margin-top: 60px;
-	transition: all .2s ease-in-out;
 	}
 	
   .navigation.responsive a.icon {
