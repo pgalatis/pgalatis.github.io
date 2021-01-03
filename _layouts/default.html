@@ -61,18 +61,14 @@
   <body>
     
    <div class="wrapper"><!-- Start wrapper --> 
-     <nav class="mobilenav" id="myNav">
-       <a href="javascript:void(0);" class="icon" onclick="myFunction()">
-       <i class="fa fa-bars"></i>
-       </a>
-       <a href="/" title="Home">Home</a>
-       <a href="/about/" title="About">About</a>
-     </nav>
      <div class="hero">
        <p><a href="/"><img src="https://pgalatis.github.io/images/me.jpg" title="Me" class="profile"></a></p>
        <!--<p class="lead">Panos Galatis</p>
        <p class="desc">Technical Author</p>-->
-       <nav class="tmenu">
+       <nav class="tmenu" id="myNav">
+         <a href="javascript:void(0);" class="icon" onclick="myFunction()">
+            <i class="fa fa-bars"></i>
+          </a>
          <a href="/" title="Home">Home</a>
          <a href="/about/" title="About">About</a>
          <!--<a href="#">contact</a>-->
@@ -93,10 +89,10 @@
   <script>
 function myFunction() {
   var x = document.getElementById("myNav");
-  if (x.className === "mobilenav") {
+  if (x.className === "tmenu") {
     x.className += " responsive";
   } else {
-    x.className = "mobilenav";
+    x.className = "tmenu";
   }
 }
 </script>
