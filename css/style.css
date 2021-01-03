@@ -423,7 +423,7 @@ h1.title {
 	
 .navigation.responsive nav {
 	margin-top: 60px;
-	transition: max-height 400ms ease-in-out;
+	transition: all .2s ease-in-out;
 	}
 	
   .navigation.responsive a.icon {
