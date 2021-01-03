@@ -382,7 +382,7 @@ nav.tmenu.responsive a.icon {
     margin: 0 auto;
   }
 	
-  nav.tmenu responsive a {
+  nav.tmenu.responsive a {
     text-align: center;
     display: block;
     padding-top: 7px;  
