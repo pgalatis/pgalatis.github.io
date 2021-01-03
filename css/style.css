@@ -408,7 +408,7 @@ nav.tmenu {
 .mobilenav.responsive {position: relative;}
   .mobilenav.responsive a.icon {
     position: absolute;
-    right: 0;
+    right: 50%;
     top: 0;
   }
   .mobilenav.responsive a {
