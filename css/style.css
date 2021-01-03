@@ -374,18 +374,22 @@ nav.tmenu a {display: none;}
 
 nav.tmenu a.icon {
     display: block;
+    margin: 0;
 	}
 	
 nav.tmenu.responsive {position: relative;}
   
 nav.tmenu.responsive a.icon {
-    margin: 0 auto;
+    margin: 0;
+    display: block;	
   }
 	
   nav.tmenu.responsive a {
     text-align: center;
     display: block;
-    padding-top: 7px;  
+    padding-top: 10px; 
+    border-top: 1px solid #ababab;
+    border-bottom: 1px solid #ababab;	  
   }
 
 h1.title, .navigation nav a {
