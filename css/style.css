@@ -434,7 +434,7 @@ h1.title {
     text-align: center;
     margin: 30px 0 0 0;
     padding: 8px 0;
-    border-bottom: 1px solid #efefef;
+    transition: max-height 400ms ease-in-out;	  
   }
 	
 .navigation.responsive nav a:first-child {
