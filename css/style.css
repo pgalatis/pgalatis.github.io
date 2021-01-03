@@ -399,6 +399,8 @@ nav.tmenu {
 	display: none;
 	}
 
+.mobilenav {display: block !important;}
+
 .mobilenav a:not(:first-child) {display: none;}
 
 .mobilenav a.icon {
