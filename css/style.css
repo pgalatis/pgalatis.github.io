@@ -32,7 +32,7 @@ nav.tmenu a {
 }
 
 nav.tmenu a:first-child {
-	margin-right: 20px;
+	margin-right: 20px !important;
 }
 
 nav.tmenu .icon {
@@ -387,9 +387,7 @@ nav.tmenu.responsive a.icon {
   nav.tmenu.responsive a {
     text-align: center;
     display: block;
-    padding-top: 10px; 
-    border-top: 1px solid #ababab;
-    border-bottom: 1px solid #ababab;	  
+    padding-top: 10px;	  
   }
 
 h1.title, .navigation nav a {
