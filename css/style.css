@@ -18,36 +18,11 @@ header.top {
     margin: 20px 40px 40px 0;
 }
 
-.mobilenav {
-  overflow: hidden;
-  visibility: hidden;
-}
-
-.mobilenav a {
-  display: block;
-  color: #666;
-  text-align: center;
-  padding: 15px 0;
-  text-decoration: none;
-  font-size: 17px;
-}
-
-.mobilenav a:hover {
-  color: #333;
-}
-
-.mobilenav a.active {
-  color: #333;
-}
-
-.mobilenav .icon {
-  display: none;
-}
-
 nav.tmenu {
 	margin: 40px 0 20px 0;
 	text-align: center;
 	vertical-align: baseline;
+	overflow: hidden;
 }
 
 nav.tmenu a {
@@ -58,6 +33,10 @@ nav.tmenu a {
 
 nav.tmenu a:first-child {
 	margin-right: 20px;
+}
+
+nav.tmenu .icon {
+	display: none;
 }
 	
 
@@ -390,28 +369,20 @@ body {
 	
 header.top {
     }
-	
-nav.tmenu {
-	display: none;
-	}
 
-.mobilenav {visibility: visible;}
+nav.tmenu a {display: none;}
 
-.mobilenav a {display: none;}
-
-.mobilenav a.icon {
+nav.tmenu a.icon {
     display: block;
 	}
 	
-.mobilenav.responsive {position: relative;}
-  .mobilenav.responsive a.icon {
-    position: absolute;
-    right: 50%;
-    top: 0;
+nav.tmenu.responsive {position: relative;}
+  
+nav.tmenu.responsive a.icon {
+    margin: 0 auto;
   }
+	
   .mobilenav.responsive a {
-    float: none;
-    display: block;
     text-align: center;
   }
 
