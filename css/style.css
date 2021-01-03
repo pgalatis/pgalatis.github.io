@@ -18,10 +18,9 @@ header.top {
     margin: 20px 40px 40px 0;
 }
 
-/* Add a black background color to the top navigation */
 .mobilenav {
   overflow: hidden;
-  display: none;
+  visibility: hidden;
 }
 
 .mobilenav a {
@@ -33,18 +32,15 @@ header.top {
   font-size: 17px;
 }
 
-/* Change the color of links on hover */
-.topnav a:hover {
+.mobilenav a:hover {
   color: #333;
 }
 
-/* Add an active class to highlight the current page */
-.topnav a.active {
+.mobilenav a.active {
   color: #333;
 }
 
-/* Hide the link that should open and close the topnav on small screens */
-.topnav .icon {
+.mobilenav .icon {
   display: none;
 }
 
@@ -399,7 +395,7 @@ nav.tmenu {
 	display: none;
 	}
 
-.mobilenav {display: block !important;}
+.mobilenav {visibility: visible}
 
 .mobilenav a:not(:first-child) {display: none;}
 
