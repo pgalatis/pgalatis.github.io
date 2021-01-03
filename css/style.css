@@ -395,9 +395,9 @@ nav.tmenu {
 	display: none;
 	}
 
-.mobilenav {visibility: visible}
+.mobilenav {visibility: visible;}
 
-.mobilenav a:not(:first-child) {display: none;}
+.mobilenav a {display: none;}
 
 .mobilenav a.icon {
     display: block;
