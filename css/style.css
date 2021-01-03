@@ -396,7 +396,7 @@ nav.tmenu.responsive a.icon {
     display: block;
     padding: 10px;
     background: rgba(250, 250, 250, 0.9);
-    border-bottom: 1pc solid #ececec;	  
+    border-bottom: 1px solid #ececec;	  
   }
 
 h1.title, .navigation nav a {
