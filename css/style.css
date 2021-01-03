@@ -387,12 +387,30 @@ img {
 body {
     margin: 0 20px;
     padding: 0 20px;
-    font-size: 16px;
+    font-size: 17px;
     overflow-x: hidden;
     }
 	
 header.top {
     }
+
+.mobilenav a:not(:first-child) {display: none;}
+
+.mobilenav a.icon {
+    display: block;
+	}
+	
+.mobilenav.responsive {position: relative;}
+  .mobilenav.responsive a.icon {
+    position: absolute;
+    right: 0;
+    top: 0;
+  }
+  .mobilenav.responsive a {
+    float: none;
+    display: block;
+    text-align: center;
+  }
 
 h1.title, .navigation nav a {
 	font-weight: 400;
