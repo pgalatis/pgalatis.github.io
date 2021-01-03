@@ -32,7 +32,7 @@ nav.tmenu a {
 }
 
 nav.tmenu a:nth-child(2) {
-	margin-right: 20px !important;
+	margin-right: 20px;
 }
 
 nav.tmenu .icon {
@@ -371,6 +371,10 @@ header.top {
     }
 
 nav.tmenu a {display: none;}
+	
+nav.tmenu a:nth-child(2) {
+	margin-right: 0;
+}
 
 nav.tmenu a.icon {
     display: block;
