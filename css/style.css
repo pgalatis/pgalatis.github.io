@@ -31,7 +31,7 @@ nav.tmenu a {
 	text-transform: lowercase;
 }
 
-nav.tmenu a:nth-child(2) {
+nav.tmenu a:first-child {
 	margin-right: 20px;
 }
 
