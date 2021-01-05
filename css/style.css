@@ -29,6 +29,7 @@ nav.tmenu a {
 	display: inline-block;
 	font-size: 17px;
 	text-transform: lowercase;
+	font-weight: 300;
 }
 
 nav.tmenu a:first-child {
