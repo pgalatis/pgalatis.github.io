@@ -5,7 +5,7 @@
 }
 
 html, body {
-    font: 400 15px "Nunito Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    font: 400 16px Cabin, "Nunito Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     color: #231f20;
@@ -27,8 +27,8 @@ nav.tmenu {
 
 nav.tmenu a {
 	display: inline-block;
-	font-size: 17px;
-	text-transform: lowercase;
+	font-family: "Nunito Sans", sans-serif;
+	text-transform: uppercase;
 	font-weight: 300;
 }
 
